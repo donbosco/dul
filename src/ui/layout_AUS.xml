@@ -1,0 +1,302 @@
+<?xml version="1.0"?>
+<skin>
+	<font id="list1" src="/ui/HelveNEg.pfb" type="type1" size="9"/>
+	<font id="list2" src="/ui/HelveNEg.pfb" type="type1" size="10"/>
+	<font id="progress" src="/ui/HelveNEg.pfb" type="type1" size="12"/>
+	<font id="editLabelFont" src="/ui/HelveNEg.pfb" type="type1" size="10"/>
+
+
+        <layout dimensions="1024x768" font="list1">
+		<layer id="background">
+			<image image="/ui/background_AUS.jpg" pos="0,0"/>
+		</layer>
+		
+		<layer id="backgroundColourWall" visible="false">
+			<image image="/ui/backgroundColourWall_AUS.jpg" pos="0,0"/>
+		</layer>
+		
+		<layer id="thumbnailLayer">
+		        <placeholder id="thumbnail" pos="550,50"/>
+		</layer>
+	
+		<layer id="imageLayer">
+			<placeholder id="pelib" pos="34,160" dimensions="618x464"/>
+		</layer>
+		
+		<layer id="buttons" visible="true">
+			<!--
+			<button id="load" pos="712,45" up="/ui/load_up.png" down="/ui/load_down.png" disabled="/ui/load_deactivated.png"/>
+			<button id="saveToWebsite" pos="712,707" up="/ui/save_up.png" down="/ui/save_down.png" disabled="/ui/save_inactive.png" enabled="false"/>
+			<button id="save" pos="5,500" up="/ui/88x39_saveImage_up.jpg" down="/ui/88x39_saveImage_down.jpg" disabled="/ui/88x39_saveImage_deactivated.jpg" enabled="false" visible="false"/>
+			<button id="loadproject" pos="50,400" up="/ui/128x39_loadProject_up.jpg" down="/ui/128x39_loadProject_down.jpg" disabled="/ui/128x39_loadProject_deactivated.jpg" visible="false"/>
+			<button id="returnToDulux" pos="864,707" up="/ui/return_up.png" down="/ui/return_down.png" disabled="/ui/return_inactive.png" visible="true"/>
+			-->
+			<button id="load" pos="712,45" up="/ui/load_up.png" down="/ui/load_down.png" disabled="/ui/load_deactivated.png"/>
+			<button id="loadproject" pos="50,400" up="/ui/128x39_loadProject_up.jpg" down="/ui/128x39_loadProject_down.jpg" disabled="/ui/128x39_loadProject_deactivated.jpg" visible="false"/>
+			<button id="saveToWebsite" pos="714,712" up="/ui/save_up.png" down="/ui/save_down.png" disabled="/ui/save_inactive.png" enabled="false"/>
+			<button id="save" pos="814,712" up="/ui/save_PC_up.png" down="/ui/save_PC_down.png" disabled="/ui/save_PC_inactive.png" enabled="false" visible="true"/>
+			<button id="returnToDulux" pos="914,712" up="/ui/return_up.png" down="/ui/return_down.png" disabled="/ui/return_inactive.png" visible="true"/>
+			<!--<label id="sessionIDtemp" pos="75,705" dimensions="366x59" wrap="true" align="center" vertical-align="center" font="progress" color="000000" label="No Session ID"/>-->
+
+			
+			<!--<button id="exit" pos="929,719" up="/ui/button_88x39_return_up.jpg" down="/ui/button_88x39_return_down.jpg"/>-->
+			<button id="paint" pos="712,508" up="/ui/128x39_paint_up.jpg" down="/ui/128x39_paint_down.jpg" on="/ui/128x39_paint_selected.jpg" toggle="true" disabled="/ui/128x39_paint_deactivated.jpg" state="true"/>
+			<button id="mask" pos="888,508" up="/ui/128x39_mask_up.jpg" down="/ui/128x39_mask_down.jpg" on="/ui/128x39_mask_selected.jpg" toggle="true" disabled="/ui/128x39_mask_deactivated.jpg"/>
+			
+			<button id="editLayer" pos="821,410" up="/ui/editArea_up.png" down="/ui/editArea_down.png" disabled="/ui/editArea_deactivated.png"/>
+			<!--<button id="rename" pos="712,410" up="/ui/rename_up.jpg" down="/ui/rename_down.jpg" disabled="/ui/rename_deactivated.jpg"/>-->
+			<button id="delete" pos="929,410" up="/ui/deleteArea_up.png" down="/ui/deleteArea_down.png" disabled="/ui/deleteArea_deactivated.png"/>
+			
+			<button id="undo" pos="712,602" up="/ui/128x39_undo_up.jpg" down="/ui/128x39_undo_down.jpg" disabled="/ui/128x39_undo_deactivated.jpg" enabled="false"/>
+			<button id="redo" pos="888,602" up="/ui/128x39_redo_up.jpg" down="/ui/128x39_redo_down.jpg" disabled="/ui/128x39_redo_deactivated.jpg" enabled="false"/>
+			<button id="zoom_in" pos="40,687" up="/ui/88x39_zoomIn_up.jpg" down="/ui/88x39_zoomIn_down.jpg" disabled="/ui/88x39_zoomIn_deactivated.jpg"/>
+			<button id="zoom_out" pos="143,687" up="/ui/88x39_zoomOut_up.jpg" down="/ui/88x39_zoomOut_down.jpg" disabled="/ui/88x39_zoomOut_deactivated.jpg"/>
+			
+			<button id="masks_scrollup" pos="993,304" up="/ui/slideup_up.jpg" down="/ui/slideup_down.jpg" disabled="/ui/slideup_down.jpg" enabled="false"/>
+			<button id="masks_scrolldown" pos="993,380" up="/ui/slidedown_up.jpg" down="/ui/slidedown_down.jpg" disabled="/ui/slidedown_down.jpg" enabled="false"/>
+			<list id="maskList" pos="723,300" dimensions="265x96" highlight-background="8B8B7A" highlight-foreground="ffffff" text-foreground="000000" line-height="14" highlight-hanging="3" font="list2"/>
+			<scrollbar id="masks_scrollbar" pos="990,320" dimensions="23x58" button-up="masks_scrollup" button-down="masks_scrolldown" unit="14" color="d1d1d1" list="maskList" enabled="false"/>
+			<!--<scrollbar id="masks_scrollbar" pos="987,260" dimensions="23x122" button-up="masks_scrollup" button-down="masks_scrolldown" unit="14" color="d1d1d1" list="maskList" enabled="false"/>-->
+			<slider id="eraserSizeSlider" pos="837,555" dimensions="175x39" color="d1d1d1" size="12" min="1" max="10" leftLabel="min" rightLabel="max" sliderTextVisible="false" enabled="false"/>
+			<button id="eraser" pos="712,555" up="/ui/128x39_eraser_up.jpg" down="/ui/128x39_eraser_down.jpg" on="/ui/128x39_eraser_selected.jpg" disabled="/ui/128x39_eraser_deactivated.jpg"/>
+
+			<!--<placeholder id="myprojectColours" pos="734,503" dimensions="263x167"/>		-->
+			<button id="colour1" toggle="true" pos="712,147" type="1" dimensions="80x60"/>
+			<button id="colour2" toggle="true" pos="821,147" type="1" dimensions="80x60"/>
+			<button id="colour3" toggle="true" pos="929,147" type="1" dimensions="80x60"/> 
+			<button id="addLayer1" toggle="false" pos="710,249" up="/ui/add_area_up.png" down="/ui/add_area_down.png"/>
+			<button id="addLayer2" toggle="false" pos="819,249" up="/ui/add_area_up.png" down="/ui/add_area_down.png"/>
+			<button id="addLayer3" toggle="false" pos="927,249" up="/ui/add_area_up.png" down="/ui/add_area_down.png"	/>
+			<button id="changeSwatch1" toggle="false" pos="710,214" up="/ui/88x28_change_up.jpg" down="/ui/88x28_change_down.jpg"/>
+			<button id="changeSwatch2" toggle="false" pos="819,214" up="/ui/88x28_change_up.jpg" down="/ui/88x28_change_down.jpg"/>
+			<button id="changeSwatch3" toggle="false" pos="927,214" up="/ui/88x28_change_up.jpg" down="/ui/88x28_change_down.jpg"/>
+			
+			<button id="lighting" pos="208,737" up="/ui/slidedown_up.jpg" down="/ui/slidedown_down.jpg"/>
+			<label id="lightingLabel" pos="113,748" font="list2" color="000000" label="DAYLIGHT"/>
+			<region id="lightingHit" pos="110,735" dimensions="119x19"/>
+			
+			<button id="closewall" pos="600,140" type="0" up="/ui/backtoimage_up.jpg" down="/ui/backtoimage_down.jpg" visible="false"/>
+			
+			<!--
+			<button id="help" pos="20,120" up="/ui/40x40_help_up.jpg" down="/ui/40x40_help_down.jpg" on="/ui/40x40_help_up.jpg"/>
+			<button id="tutorials" pos="65,120" up="/ui/tutorials_up.png" down="/ui/tutorials_down.png"/>
+			-->
+						
+			<button id="tutorials" pos="20,120" up="/ui/tutorials_up.png" down="/ui/tutorials_down.png"/>
+			<button id="centreImage" pos="246,687" up="/ui/centre_image_up.png" down="/ui/centre_image_down.png" disabled="/ui/centre_image_inactive.png" visible="true"/>
+			
+			<button id="tipsMinimized" pos="400,742" up="/ui/tips_minimized_up.png" down="/ui/tips_minimized_over.png" over="/ui/tips_minimized_over.png" />
+			<button id="tipsPaint" pos="400,692" up="/ui/tips_paint_up.png" down="/ui/tips_paint_over.png" over="/ui/tips_paint_over.png" visible="false"/>
+			<button id="tipsEraser" pos="400,692" up="/ui/tips_eraser_up.png" down="/ui/tips_eraser_over.png" over="/ui/tips_eraser_over.png" visible="false"/>
+			<button id="tipsMask" pos="400,692" up="/ui/tips_mask_up.png" down="/ui/tips_mask_over.png" over="/ui/tips_mask_over.png" visible="false"/>
+			
+			
+			<!--<button id="print" pos="712,631" up="/ui/52x22_print_up.jpg" down="/ui/52x22_print_down.jpg" disabled="/ui/52x22_print_deactivated.jpg" enabled="false"/>-->
+
+			
+		</layer>
+		
+                <layer id="premaskedLayer" visible="false">
+                    <region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+                    <image image="/ui/thumbnails.png" pos="100,250"/>
+                    <button id="picture1" pos="180,300" dimensions="200x200" type="3"/>
+                    <button id="picture2" pos="400,300" dimensions="200x200" type="3"/>
+                    <button id="picture3" pos="620,300" dimensions="200x200" type="3"/>
+                    <button id="nextthumbnails" pos="862,380" up="/ui/thumbsnext_up.png" down="/ui/thumbsnext_down.png"/>
+                    <button id="previousthumbnails" pos="105,380" up="/ui/thumbsprevious_up.png" down="/ui/thumbsprevious_down.png"/>
+                    <button id="cancel2" pos="768,500" up="/ui/cancel_up.png" down="/ui/cancel_down.png"/>
+			<!--<button id="picture4" pos="680,300" dimensions="100x100"/>
+			<button id="picture5" pos="320,420" dimensions="100x100"/>
+			<button id="picture6" pos="440,420" dimensions="100x100"/>
+			<button id="picture7" pos="560,420" dimensions="100x100"/>
+			<button id="picture8" pos="680,420" dimensions="100x100"/>-->
+                </layer>
+		
+		<layer id="localorpremasked" visible="false">
+			<region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<button id="loadFromFile" pos="350,290" up="/ui/loadFromFile_up.png" down="/ui/loadFromFile_down.png"/>
+			<button id="loadFromPremasked" pos="525,290" up="/ui/loadfrompremasked_up.png" down="/ui/loadfrompremasked_down.png"/>
+                        <button id="cancel1" pos="623,500" up="/ui/cancel_up.png" down="/ui/cancel_down.png"/>
+		</layer>
+		
+		<layer id="groups" visible="false">
+			<button id="standards" pos="10,165" up="/ui/standards_on.jpg" down="/ui/standards_down.jpg" on="/ui/standards_selected.jpg"/>
+			<button id="specialty" pos="138,165" up="/ui/specialties_up.jpg" down="/ui/specialties_down.jpg" on="/ui/specialties_selected.jpg"/>
+			<button id="whites" pos="266,165" up="/ui/whites_up.jpg" down="/ui/whites_down.jpg" on="/ui/whites_selected.jpg"/>
+			<button id="traditionals" pos="394,165" up="/ui/traditionals_up.jpg" down="/ui/traditionals_down.jpg" on="/ui/traditionals_selected.jpg"/>
+		</layer>
+		
+		<layer id="colourwallLayer" visible="false">
+			<button id="reds" pos="10,194" up="/ui/reds_up.jpg" down="/ui/reds_down.jpg" over="/ui/reds_down.jpg"/>
+			<button id="oranges" pos="94,194" up="/ui/oranges_up.jpg" down="/ui/oranges_down.jpg" over="/ui/oranges_down.jpg"/>
+			<button id="yellows" pos="178,194" up="/ui/yellows_up.jpg" down="/ui/yellows_down.jpg" over="/ui/yellows_down.jpg"/>
+			<button id="greens" pos="262,194" up="/ui/greens_up.jpg" down="/ui/greens_down.jpg" over="/ui/greens_down.jpg"/>
+			<button id="blues" pos="346,194" up="/ui/blues_up.jpg" down="/ui/blues_down.jpg" over="/ui/blues_down.jpg"/>
+			<button id="purples" pos="430,194" up="/ui/purples_up.jpg" down="/ui/purples_down.jpg" over="/ui/purples_down.jpg"/>
+			<button id="browns" pos="514,194" up="/ui/browns_up.jpg" down="/ui/browns_down.jpg" over="/ui/browns_down.jpg"/>
+			<button id="neutrals" pos="598,194" up="/ui/neutrals_up.jpg" down="/ui/neutrals_down.jpg" over="/ui/neutrals_down.jpg"/>
+			
+		</layer>
+		<layer id="specialties" visible="false">
+			<button id="suede" pos="10,210" up="/ui/colourwall_specialty_suede_up.jpg" down="/ui/colourwall_specialty_suede_over.jpg" over="/ui/colourwall_specialty_suede_over.jpg"/>
+			<button id="tuscan" pos="125,210" up="/ui/colourwall_specialty_tuscan_up.jpg" down="/ui/colourwall_specialty_tuscan_over.jpg" over="/ui/colourwall_specialty_tuscan_over.jpg"/>
+			<button id="metallic" pos="240,210" up="/ui/colourwall_specialty_metallic_up.jpg" down="/ui/colourwall_specialty_metallic_over.jpg" over="/ui/colourwall_specialty_metallic_over.jpg"/>
+			<button id="colorBond" pos="355,210" up="/ui/colourwall_specialty_colorbond_up.jpg" down="/ui/colourwall_specialty_colorbond_over.jpg" over="/ui/colourwall_specialty_colorbond_over.jpg"/>
+			<button id="weatherShieldGardenShades" pos="470,210" up="/ui/colourwall_specialty_shades_up.jpg" down="/ui/colourwall_specialty_shades_over.jpg" over="/ui/colourwall_specialty_shades_over.jpg"/>
+			<button id="weatherShieldRoofandTrim" pos="585,210" up="/ui/colourwall_specialty_trim_up.jpg" down="/ui/colourwall_specialty_trim_over.jpg" over="/ui/colourwall_specialty_trim_over.jpg"/>
+			<button id="riverRock" pos="10,397" up="/ui/colourwall_specialty_river_up.jpg" down="/ui/colourwall_specialty_river_over.jpg" over="/ui/colourwall_specialty_river_over.jpg"/>
+			<button id="designer" pos="125,397" up="/ui/colourwall_specialty_designer_up.jpg" down="/ui/colourwall_specialty_designer_over.jpg" over="/ui/colourwall_specialty_designer_over.jpg"/>
+			<button id="render" pos="240,397" up="/ui/colourwall_specialty_render_up.jpg" down="/ui/colourwall_specialty_render_over.jpg" over="/ui/colourwall_specialty_render_over.jpg"/>
+			<button id="sprayFast" pos="355,397" up="/ui/colourwall_specialty_spray_up.jpg" down="/ui/colourwall_specialty_spray_over.jpg" over="/ui/colourwall_specialty_spray_over.jpg"/>
+			<button id="garageFloors" pos="470,397" up="/ui/colourwall_specialty_garage_up.jpg" down="/ui/colourwall_specialty_garage_over.jpg" over="/ui/colourwall_specialty_garage_over.jpg"/>
+			<button id="quitRust" pos="585,397" up="/ui/colourwall_specialty_quit_up.jpg" down="/ui/colourwall_specialty_quit_over.jpg" over="/ui/colourwall_specialty_quit_over.jpg"/>
+			
+		</layer>
+		<layer id="coloursLayer" visible="false">
+			<placeholder id="palette" pos="26,212" dimensions="650*350" />
+			<button id="slideup" pos="341,198" up="/ui/slideup_up.jpg" down="/ui/slideup_down.jpg"/>
+			<button id="slidedown" pos="341,567" up="/ui/slidedown_up.jpg" down="/ui/slidedown_down.jpg"/>
+			<button id="slideright" pos="677,376" up="/ui/slideright_up.jpg" down="/ui/slideright_down.jpg"/>
+			<button id="slideleft" pos="12,376" up="/ui/slideleft_up.jpg" down="/ui/slideleft_down.jpg"/>
+			<button id="closecolours" pos="600,140" type="0" up="/ui/backtoCategories_up.jpg" down="/ui/backtoCategories_down.jpg"/>			
+		</layer>
+
+		<layer id="selectedLayer" visible="false">
+			<region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<!--<placeholder id="selected" pos="0,0" dimensions="1024x768"/>-->
+			
+			<image image="/ui/selected.jpg" pos="202,144"/>
+			<label id="selectedName" pos="222,230" dimensions="200x59" wrap="true" align="left" vertical-align="center" font="progress" color="ffffff" label="Selected!"/>
+			<!--<button id="selectedcolour" pos="222,178" toggle="false" type="1" dimensions="125x56"/>-->
+			<button id="closebutton" pos="770,150" type="0" up="/ui/close_up.jpg" down="/ui/close_down.jpg"/>
+			<button id="original0" pos="222,180" toggle="false" type="1" dimensions="125x56"/>
+			<button id="original1" pos="222,410" toggle="false" type="1" dimensions="125x56"/>
+			<button id="original2" pos="482,180" toggle="false" type="1" dimensions="125x56"/>
+			<button id="original3" pos="647,180" toggle="false" type="1" dimensions="125x56"/>
+			<button id="original4" pos="482,410" toggle="false" type="1" dimensions="125x56"/>
+			<button id="original5" pos="647,410" toggle="false" type="1" dimensions="125x56"/>
+			<button id="interior1_1" pos="482,244" toggle="false" type="1" dimensions="125x56"/>
+			<button id="interior1_2" pos="482,308" toggle="false" type="1" dimensions="125x56"/>
+			<button id="interior2_1" pos="647,244" toggle="false" type="1" dimensions="125x56"/>
+			<button id="interior2_2" pos="647,308" toggle="false" type="1" dimensions="125x56"/>
+			<button id="exterior1_1" pos="482,474" toggle="false" type="1" dimensions="125x56"/>
+			<button id="exterior1_2" pos="482,538" toggle="false" type="1" dimensions="125x56"/>
+			<button id="exterior2_1" pos="647,474" toggle="false" type="1" dimensions="125x56"/>
+			<button id="exterior2_2" pos="647,538" toggle="false" type="1" dimensions="125x56"/>
+			<button id="base_1" pos="222,474" toggle="false" type="1" dimensions="125x56"/>
+			<button id="base_2" pos="222,538" toggle="false" type="1" dimensions="125x56"/>
+		</layer>
+		
+		<layer id="progressLayer" visible="false">
+			<image image="/ui/progress.jpg" pos="25,660"/>
+			<progress id="progress" pos="25,660" dimensions="646x19" color="000000"/>
+			<label id="progressLabel" pos="25,655" font="progress" color="000000" label=""/>
+		</layer>
+		
+		<layer id="lightingLayer" visible="false">
+			<image image="/ui/lighting_dropdown.jpg" pos="110,690"/>
+			<list id="lightingList" pos="110,690" dimensions="112x68" popup="true" highlight-background="d1d1d1" highlight-foreground="000000" text-foreground="ffffff" line-height="14" highlight-hanging="3" font="list2"/>
+		</layer>
+		
+		<layer id="helpLayer" visible="false">
+			<!--<region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>-
+			<button id="helpClose" pos="712,10" up="/ui/help_up.jpg" down="/ui/help_down.jpg" on="/ui/help_down.jpg"/>-->
+			<image image="/ui/help_icon_right.png" pos="656,507" id="helpPaintIcon"/>
+			<image image="/ui/help_paint.png" pos="656,507" visible="false" id="helpPaint"/>
+							
+			<image image="/ui/help_icon_right.png" pos="187,687" id="helpZoomIcon"/>
+			<image image="/ui/help_zoom.png" pos="187,644" visible="false" id="helpZoom"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,600" id="helpUndoIcon"/>
+			<image image="/ui/help_undo.png" pos="656,600" visible="false" id="helpUndo"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,45" id="helpLoadIcon"/>
+			<image image="/ui/help_load.png" pos="656,45" visible="false" id="helpLoad"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,554" id="helpEraseIcon"/>
+			<image image="/ui/help_eraser.png" pos="656,554" visible="false" id="helpErase"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,213" id="helpChangeIcon"/>
+			<image image="/ui/help_changeColour.png" pos="656,213" visible="false" id="helpChange"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,243" id="helpAddIcon"/>
+			<image image="/ui/help_addlayer.png" pos="656,243" visible="false" id="helpAdd"/>
+			
+			<image image="/ui/help_icon_left.png" pos="972,506" id="helpMaskIcon"/>
+			<image image="/ui/help_mask.png" pos="716,507" visible="false" id="helpMask"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,149" id="helpColourIcon"/>
+			<image image="/ui/help_colourchips.png" pos="656,149" visible="false" id="helpColour"/>
+			
+			<image image="/ui/help_icon_right.png" pos="656,296" id="helpLayerIcon"/>
+			<image image="/ui/help_layer_table.png" pos="656,296" visible="false" id="helpLayer"/>
+			
+			<image image="/ui/help_icon_right.png" pos="230,732" id="helpLightingIcon"/>
+			<image image="/ui/help_lighting.png" pos="230,689" visible="false" id="helpLighting"/>
+			
+			<image image="/ui/help_icon_left.png" pos="969,385" id="helpDeleteIcon"/>
+			<image image="/ui/help_delete.png" pos="714,385" visible="false" id="helpDelete"/>
+			
+			<image image="/ui/help_icon_left.png" pos="861,432" id="helpEditIcon"/>
+			<image image="/ui/help_editLayer.png" pos="606,432" visible="false" id="helpEdit"/>
+			
+			
+			
+			
+			
+			
+			<!--
+			<image image="/ui/help_icon_right.png" pos="987,593" id="helpPalettesIcon"/>
+			<image image="/ui/help_palettes.png" pos="657,584" visible="false" id="helpPalettes"/>
+			
+			
+			<image image="/ui/help_icon_left.png" pos="682,355" id="helpBlurIcon"/>
+			<image image="/ui/help_blur.png" pos="682,355" visible="false" id="helpBlur"/>
+			
+			<image image="/ui/help_icon_left.png" pos="682,390" id="helpLightingIcon"/>
+			<image image="/ui/help_lighting.png" pos="682,390" visible="false" id="helpLighting"/>
+			<image image="/ui/help_icon_left.png" pos="682,512" id="helpColoursIcon"/>
+			<image image="/ui/help_colours.png" pos="682,512" visible="false" id="helpColours"/>
+			
+			-->
+			
+			
+		</layer>
+		<layer id="errorLayer" visible="false">
+			<region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<image image="/ui/error.jpg" pos="319,325"/>
+			<label id="errorLabel" pos="326,333" dimensions="366x59" wrap="true" align="center" vertical-align="center" font="progress" color="ffffff" label="ERROR!"/>
+			<button id="errorOk" pos="460,402" up="/ui/ok_up.jpg" down="/ui/ok_active.jpg" enabled="true"/>
+		</layer>
+		<layer id="yesOrNo" visible="false">
+		        <region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<image image="/ui/choice.jpg" pos="319,325"/>
+			<label id="choiceAddMaskLabel" pos="326,333" dimensions="366x59" wrap="true" align="center" vertical-align="center" font="progress" color="ffffff" label="CHOICE!"/>
+			<button id="addMaskYes" pos="360,402" up="/ui/yes_up.jpg" down="/ui/yes_active.jpg" enabled="true"/>	
+			<button id="addMaskNo" pos="580,402" up="/ui/no_up.jpg" down="/ui/no_active.jpg" enabled="true"/>
+		</layer>
+		<layer id="chooseLightingLayer" visible="false">
+		    <region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<!--<image image="/ui/choice.jpg" pos="319,325"/>-->
+			
+			<image image="/ui/lighting_dropdown.jpg" pos="485,373"/>
+			<region id="lightingHit2" pos="480,343" dimensions="119x19"/>
+			
+			<label id="selectLightingLabel" pos="481,343" dimensions="119x19" wrap="true" align="center" vertical-align="center" font="progress" color="ffffff" label="CHOICE!"/>
+			<list id="lightingList2" pos="485,343" dimensions="112x68" popup="true" highlight-background="d1d1d1" highlight-foreground="000000" text-foreground="ffffff" line-height="14" highlight-hanging="3" font="list2"/>
+		</layer>
+		<layer id="editMaskLayer" visible="false">
+			<!--		<label id="editLa-->
+			<region pos="0,0" dimensions="1024x768" color="000000" opacity="0.6"/>
+			<image image="/ui/editLayer2.jpg" pos="202,250"/>
+			<label id="editingLabel" pos="300,330" dimensions="150x20" wrap="true" align="left" vertical-align="center" font="editLabelFont" color="000000" label=""/>
+			<button id="changeMaskColour1" pos="300,400" toggle="false" type="1" dimensions="125x56"/>
+			<button id="changeMaskColour2" pos="450,400" toggle="false" type="1" dimensions="125x56"/>
+			<button id="changeMaskColour3" pos="600,400" toggle="false" type="1" dimensions="125x56"/>
+			<button id="closeEditbutton" pos="780,255" type="0" up="/ui/close_up.jpg" down="/ui/close_down.jpg"/>
+			<!--<button id="editName" pos="463,325" up="/ui/85x22_rename_up.jpg" down="/ui/85x22_rename_down.jpg" disabled="/ui/85x22_rename_deactivated.jpg"/>-->
+			<slider id="blurSlider" pos="550,325" dimensions="150x26" color="d1d1d1" size="10" min="0" max="32" enabled="true" leftLabel="sharpen" rightLabel="blur" sliderTextVisible="false"/>
+			<!--<button id="blur" pos="500,290" up="/ui/52x22_blur_up.jpg" down="/ui/52x22_blur_down.jpg" disabled="/ui/52x22_blur_deactivated.jpg"/>-->
+		</layer>
+	</layout>
+</skin>

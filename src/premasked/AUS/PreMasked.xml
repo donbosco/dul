@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PreMasked.xml
+    Created on : 21 August 2009, 12:10
+    Author     : jlee
+    Description:
+        Stores the location and link of the pre-masked image
+-->
+
+<root>
+    <premasked interior="14" exterior="7">
+        <interior>
+            <dmc id="interior01" thumbnail="/premasked/AUS/interior01.jpg" location="/interior/interior01.dmc"/>
+            <dmc id="interior02" thumbnail="/premasked/AUS/interior02.jpg" location="/interior/interior02.dmc"/>
+            <dmc id="interior03" thumbnail="/premasked/AUS/interior03.jpg" location="/interior/interior03.dmc"/>
+            <dmc id="interior04" thumbnail="/premasked/AUS/interior04.jpg" location="/interior/interior04.dmc"/>
+            <dmc id="interior06" thumbnail="/premasked/AUS/interior06.jpg" location="/interior/interior06.dmc"/>
+            <dmc id="interior05" thumbnail="/premasked/AUS/interior05.jpg" location="/interior/interior05.dmc"/>
+            <dmc id="interior07" thumbnail="/premasked/AUS/interior07.jpg" location="/interior/interior07.dmc"/>
+            <dmc id="interior08" thumbnail="/premasked/AUS/interior08.jpg" location="/interior/interior08.dmc"/>
+            <dmc id="interior09" thumbnail="/premasked/AUS/interior09.jpg" location="/interior/interior09.dmc"/>
+            <dmc id="interior10" thumbnail="/premasked/AUS/interior10.jpg" location="/interior/interior10.dmc"/>
+            <dmc id="interior11" thumbnail="/premasked/AUS/interior11.jpg" location="/interior/interior11.dmc"/>
+            <dmc id="interior14" thumbnail="/premasked/AUS/interior14.jpg" location="/interior/interior14.dmc"/>
+            <dmc id="interior12" thumbnail="/premasked/AUS/interior12.jpg" location="/interior/interior12.dmc"/>
+            <dmc id="interior13" thumbnail="/premasked/AUS/interior13.jpg" location="/interior/interior13.dmc"/>
+        </interior>
+        <exterior>
+            <dmc id="exterior1" thumbnail="/premasked/AUS/exterior01.jpg" location="/exterior/exterior01.dmc"/>
+            <dmc id="exterior2" thumbnail="/premasked/AUS/exterior02.jpg" location="/exterior/exterior02.dmc"/>
+            <dmc id="exterior3" thumbnail="/premasked/AUS/exterior03.jpg" location="/exterior/exterior03.dmc"/>
+            <dmc id="exterior4" thumbnail="/premasked/AUS/exterior04.jpg" location="/exterior/exterior04.dmc"/>
+            <dmc id="exterior5" thumbnail="/premasked/AUS/exterior05.jpg" location="/exterior/exterior05.dmc"/>
+            <dmc id="exterior6" thumbnail="/premasked/AUS/exterior06.jpg" location="/exterior/exterior06.dmc"/>
+            <dmc id="exterior7" thumbnail="/premasked/AUS/exterior07.jpg" location="/exterior/exterior07.dmc"/>
+
+
+
+        </exterior>
+    </premasked>
+
+</root>

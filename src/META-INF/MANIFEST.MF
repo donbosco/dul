@@ -1,0 +1,2776 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.0
+Created-By: 1.6.0_20-b02 (Sun Microsystems Inc.)
+Main-Class: dulux.DuluxMyColourFrame
+
+Name: com/sun/jimi/core/util/ColorOctree.class
+SHA1-Digest: S80yeqdsP4un4BZXW/j17gMVnKM=
+
+Name: pelib/ui/VerticalLayout.class
+SHA1-Digest: IaLSSCCwL0rHEaPnwvft8rfeMnQ=
+
+Name: ui/88x39_zoomIn_down.jpg
+SHA1-Digest: dNbDLdRtyACVsjBHmNxLTUPnALE=
+
+Name: ui/tutorials_down.png
+SHA1-Digest: DNZEVzwWEimmSSMnInBBPbwCudc=
+
+Name: ui/85x22_rename_deactivated.jpg
+SHA1-Digest: gtiRs1xynKx5gBDUGisJ0GYSWp8=
+
+Name: ui/128x39_return_selected.jpg
+SHA1-Digest: O9dK9ZpGhyRyRztH2/OqufylkyI=
+
+Name: ui/128x39_paint_selected.jpg
+SHA1-Digest: xS0HOzkNguYib6woZBZiUiMkHtg=
+
+Name: ui/help_delete.png
+SHA1-Digest: /lOhLWoasbV191avfdTUuU56D2g=
+
+Name: duluxskin/SkinnedListItem.class
+SHA1-Digest: CmvNea7SACv13OfMwWdnJKjyda8=
+
+Name: dulux/DuluxMyColour$13.class
+SHA1-Digest: nreGW4t9XCIMyFLahFncuTdtrGs=
+
+Name: com/sun/jimi/core/encoder/tga/TGAEncoderFactory.class
+SHA1-Digest: qWlqQ0ADknzCwcJmPONaPEWljoI=
+
+Name: com/sun/jimi/core/decoder/sunraster/SunRasterColorMap.class
+SHA1-Digest: 0ZNisQAHlmvLGNXUALWhZWsCG3s=
+
+Name: dulux/sax/DuluxSchemeLoaderSAX.class
+SHA1-Digest: 1DQZr0nXLROpino6j83vVZiHX5g=
+
+Name: com/sun/jimi/core/encoder/psd/PSDEncoder.class
+SHA1-Digest: 165B4uYNO5tutXFdwVIpeQPS8zw=
+
+Name: ui/128x39_mask_selected.jpg
+SHA1-Digest: KnZ1ANbVKGe7KrjrMxxtXB5YqcQ=
+
+Name: ui/selected2.png
+SHA1-Digest: XOUZ9+3QMN5VqfpE/QG4HIRv4ak=
+
+Name: ui/tips_minimized.png
+SHA1-Digest: 4bIoH/fxRRuwJHcnFKy9rkl/fk8=
+
+Name: premasked/AUS/interior13.jpg
+SHA1-Digest: EpxU8EAjEN95kSAjlO3wkrNR56Q=
+
+Name: com/sun/jimi/core/decoder/pict/PICTRectangle.class
+SHA1-Digest: TzDnFwmPwuHaJQ/+Wg2gqPz3vqc=
+
+Name: premasked/AUS/interior08.jpg
+SHA1-Digest: far0wXyhiFNJOCOWxqfabrZdwU0=
+
+Name: ui/return_up.png
+SHA1-Digest: m0pRE7vAW2n3J7lQGFm7C6htYQM=
+
+Name: com/sun/jimi/core/encoder/cur/CUREncoderFactory.class
+SHA1-Digest: RxaSr2KK/cRcd0LknRC6Nvy9wz8=
+
+Name: com/sun/jimi/core/NoImageAvailException.class
+SHA1-Digest: pLCz0Mneqnp1GxDLLLKPC0hncfw=
+
+Name: pelib/Mask.class
+SHA1-Digest: T0hxQjU3KyXwcKpM4lkcRlmoJnk=
+
+Name: ui/save_PC_inactive.png
+SHA1-Digest: +yCNZ+lXG7XicQRZgv2m0YJcuy4=
+
+Name: com/sun/jimi/core/raster/MutableJimiRasterImage.class
+SHA1-Digest: bFMax/kkhaDB+uDCupIroPrk5Nw=
+
+Name: pelib/MergeMaskCommand.class
+SHA1-Digest: FjEeDiVKQvt3C9IP7go3FHM9XE8=
+
+Name: dulux/sax/DuluxPreMaskedLoaderSAX.class
+SHA1-Digest: CrI7Q79UZdYQk4KVPhikPH+Nbqk=
+
+Name: pelib/ImageStatistics.class
+SHA1-Digest: +p7hd9MNnKkDBB2S4Vm1M7puygU=
+
+Name: org/kxml2/kdom/Document.class
+SHA1-Digest: eMglmzlFMXG5x+7sYH797DVY/qM=
+
+Name: com/sun/jimi/core/util/x11/XbmParser.class
+SHA1-Digest: uX6VrH9RUgqn5FgNQbkPX7K0Low=
+
+Name: org/kxml2/wap/wv/WV.class
+SHA1-Digest: Vdv+PaiPJZw9qJzSbaw2As7c5+U=
+
+Name: ui/slideright_down.jpg
+SHA1-Digest: kzYTklaWM4xPJYX8it1BSO0If5g=
+
+Name: dulux/DuluxPaletteManager.class
+SHA1-Digest: QsMTcIzi9YSvZNeNNCIhja6WJoA=
+
+Name: com/sun/jimi/core/vmem/IntPageMapper.class
+SHA1-Digest: 8lpQFhnrhg+MZ2fqL0z3NUHSdIw=
+
+Name: duluxskin/SkinnedProgress.class
+SHA1-Digest: UAH1KXd1NWRB7OBsI4xStOKF2HQ=
+
+Name: pelibskin/Skin.class
+SHA1-Digest: Hek3hFSZ08YTDzcMk1p4diYdfx0=
+
+Name: com/sun/jimi/core/util/StampImageFilter.class
+SHA1-Digest: PZ2uCM7XwrSs5PfFoldeFQhzEuA=
+
+Name: com/sun/jimi/util/ArrayEnumeration.class
+SHA1-Digest: smt3ZJE5JG9K6HHfFrOui5zCgcA=
+
+Name: org/kxml2/io/KXmlSerializer.class
+SHA1-Digest: BDGqq0rIOiseYoWGIrh9SzOR0bk=
+
+Name: com/sun/jimi/core/component/JimiCanvasLW.class
+SHA1-Digest: RclAFzrxUDA4sCyytJWBZqvTWh8=
+
+Name: pelib/PaintView.class
+SHA1-Digest: R8kli5LSjPu3+ayzlU6a9SKUmPA=
+
+Name: pelib/ThreadWrapper$LoadThread.class
+SHA1-Digest: /870Vz29CLItW+FPAqzNSphG10o=
+
+Name: dulux/DuluxPaintView$UpdateScissorOverlayTask.class
+SHA1-Digest: HzSG6nPlh7KZ8RL5AI70D/dImxc=
+
+Name: duluxskin/SkinnedListTextItem.class
+SHA1-Digest: WUe84Kt0/7Ht5OKVlpnGq9iziAk=
+
+Name: com/sun/jimi/core/raster/VMemByteRasterImage.class
+SHA1-Digest: fCb6IeZJGE17x6YTyp7UUIbXCBE=
+
+Name: com/sun/jimi/core/encoder/jpg/JpegComponentInfo.class
+SHA1-Digest: Pv/s7UMQHTa+SqKLBs8+Auwu1RU=
+
+Name: pelib/ui/ColourPalette.class
+SHA1-Digest: ZUyRcKPOnCX9cMFu0LXuCuBX4CA=
+
+Name: ui/help_icon_right.png
+SHA1-Digest: hPpx0Fa+9KQGPE77r9Qrp6kDbr4=
+
+Name: com/sun/jimi/core/util/x11/XColorNames.class
+SHA1-Digest: gdk8xBg3AMl7i9ZSsf9cawx9aJ0=
+
+Name: ui/background_NZ.jpg
+SHA1-Digest: urp/9z0xvr2sVn7IUrtYoIsdewM=
+
+Name: ui/whites_up.jpg
+SHA1-Digest: QIlJlx1wnaLp8vEr4EecLf3i1Nk=
+
+Name: ui/add_area_inactive.png
+SHA1-Digest: xhrxe3P7qDxS6r6wnShnQXfnfpI=
+
+Name: ui/standards_down.jpg
+SHA1-Digest: 8qLrUdjPsfTfeIzgvkbQEOzI/mo=
+
+Name: dulux/DuluxMyProjectPaletteView.class
+SHA1-Digest: i6lFf3o1X14ulPCmTkjIqf4JLcg=
+
+Name: ui/purples_up.jpg
+SHA1-Digest: qBF8OUcBzf0qlv2gPjZUqp41pq4=
+
+Name: ui/yes_up.jpg
+SHA1-Digest: RfQtu7RCJ+MEwcu5mVecjBr/Mc4=
+
+Name: ui/slideright_up.jpg
+SHA1-Digest: Fcy8aWxeOPw/YJCqki/RNji6AXk=
+
+Name: ui/thumbsnext_down.png
+SHA1-Digest: q9oEbg6VUx7gJDzrFkX3EyMi8+0=
+
+Name: org/kxml2/wap/syncml/SyncML.class
+SHA1-Digest: oaWFAq81RsSv5J+EynLtKTM1ySk=
+
+Name: premasked/AUS/PreMasked.xml
+SHA1-Digest: VxLVmyN48+F10a+UecGRrIHPruI=
+
+Name: duluxskin/LabelListener.class
+SHA1-Digest: IOGuCwOB1byzvOcgNpDjKew6O28=
+
+Name: pelib/PaintExplorerHistoryEvent.class
+SHA1-Digest: wDMtEsusg2zHPbKlD+KCe1xXc4g=
+
+Name: pelib/filters/ConvolutionKernel2D.class
+SHA1-Digest: 6hSni0fEBhi3bix8IA0Ti91o9sI=
+
+Name: ui/128x28_specifier_deactivated.jpg
+SHA1-Digest: g52lxdNI4FpuKDuhCxX1AQjuT7M=
+
+Name: ui/colourwall_specialty_shades_over.jpg
+SHA1-Digest: Y5q5IlSEwi96gmga2mOm/swkR9U=
+
+Name: ui/help_paint.png
+SHA1-Digest: KW09tTEaHdv3HDkxo7L3wXLsDMg=
+
+Name: com/sun/jimi/core/UnsupportedFormatException.class
+SHA1-Digest: QRFalGfBVekb9x9ZLru0LHk7W9Y=
+
+Name: com/sun/jimi/core/decoder/tga/TGADecoderFactory.class
+SHA1-Digest: Y+eqhHI0KA5n8nViOfuLPAy1o2U=
+
+Name: com/sun/jimi/core/component/AreaRenderer.class
+SHA1-Digest: Yi0BWz2HAgEBbmQ1z60PRPds79w=
+
+Name: ui/backtoCategories_down.jpg
+SHA1-Digest: ZVjoFZ1OEmb+GaO/fPxuVNN8mI8=
+
+Name: com/sun/jimi/core/vmem/PageMapper.class
+SHA1-Digest: 5kyxkbXHo3N9cJbjBd+kefXZXZE=
+
+Name: org/kobjects/util/Csv.class
+SHA1-Digest: 1zxC+hEMPJKRYQWRoILHrBr0Nf0=
+
+Name: ui/myColour4.jpg
+SHA1-Digest: jwM+Yp+Mp6/StRd2s14tfj6VSy4=
+
+Name: com/sun/jimi/core/decoder/xpm/XPMDecoder.class
+SHA1-Digest: CuAXhpNXrnLWy3+RbcdBnITrg/Y=
+
+Name: ui/colourwall_specialty_render_over.jpg
+SHA1-Digest: oV2V/ClQl3J1l6KMAOo5ds5Jito=
+
+Name: com/sun/jimi/core/JimiImageHandle.class
+SHA1-Digest: hhZ7Sv9/ad1spdygoSnJMewDLKk=
+
+Name: pelib/AbstractRegion.class
+SHA1-Digest: v/kxnQbMfMSzoBvoT0m8p2PUL7k=
+
+Name: ui/yellows_up.jpg
+SHA1-Digest: T9qLwkGoK9alQGSczA4cK7NgzT8=
+
+Name: ui/neutrals_up.jpg
+SHA1-Digest: BUdX8pE8RIp9mkDRhr6ffWEvUnU=
+
+Name: dulux/DuluxTempPalette.class
+SHA1-Digest: 3QEETd/2VzpSxhgcZHeyGzZcnF4=
+
+Name: ui/85x22_deleteLayer_down.jpg
+SHA1-Digest: XYgU6dvIuZ9PK8yCkrzysSYOWqc=
+
+Name: premasked/AUS/interior09.jpg
+SHA1-Digest: PKlEcZTVAmJBWDHceTwayEEx5WI=
+
+Name: pelib/Node$EdgeIterator.class
+SHA1-Digest: eKdQC+ZAH7tskvpjXd3+Nz6o3Lk=
+
+Name: com/sun/jimi/core/decoder/pict/PICT2Header.class
+SHA1-Digest: OUUlTjkDLDMuOf73QfMnyTQvOnw=
+
+Name: premasked/NZ/interior08.jpg
+SHA1-Digest: IqkhgXoCIYH6TOrI+HyHWJP+WPQ=
+
+Name: ui/backtoimage_down.jpg
+SHA1-Digest: eT1EblzN80ntf5qEW3yjwqV9G+A=
+
+Name: ui/85x22_deleteLayer_selected.jpg
+SHA1-Digest: 25vprO/cqKRCCPf+eKoPVUZ391Q=
+
+Name: ui/tips_eraser_up.png
+SHA1-Digest: P9urjpUXPlCMalFYKCWctfH71rU=
+
+Name: com/sun/jimi/core/decoder/gif/GIFFileHeader.class
+SHA1-Digest: MlIAcPQ3KqYW2rjR2yiYyg0ttrA=
+
+Name: pelib/PaintView$UpdateScissorOverlayTask.class
+SHA1-Digest: Mu38tAH/LCpw0l9HfeD4TG/OZhI=
+
+Name: com/sun/jimi/core/util/GraphicsUtils$1.class
+SHA1-Digest: dUysYY8uJox3ijDBP+8aQ4J6Nn4=
+
+Name: com/sun/jimi/core/encoder/xbm/XBMEncoderFactory.class
+SHA1-Digest: fvtYlkUBEeGwmWxKyiIX4Sg49lQ=
+
+Name: ui/cancel_up.png
+SHA1-Digest: FVRON2LRNBLqziELsD7p4+3BO5U=
+
+Name: ui/88x39_zoomIn_up.jpg
+SHA1-Digest: FQT+6xFZIGkl6zmeSdryx5RGqH8=
+
+Name: com/sun/jimi/core/raster/CroppedRasterImageProducer.class
+SHA1-Digest: 2Yh3/3HOaTIaWyDMLEkeBGkI7sk=
+
+Name: premasked/AUS/interior04.jpg
+SHA1-Digest: /btaZEG53kHlwDqf4HWucG4lPxc=
+
+Name: ui/128x39_saveProject_selected.jpg
+SHA1-Digest: f0lES8Tz5LsFzN5CEQFDIMX7XHA=
+
+Name: ui/colourwall_specialty_quit_up.jpg
+SHA1-Digest: jL9Vb13mB3+CszatBtXdG5bkI18=
+
+Name: com/sun/jimi/core/raster/BitRasterImage.class
+SHA1-Digest: ejSsjOTjkdhbNQVX/x3lLdy2t7E=
+
+Name: com/sun/jimi/core/filters/AspectAdjustReplicateScaleFilter.class
+SHA1-Digest: 8m5yYmxV5Fyll0vDJMBaThHQ7SY=
+
+Name: premasked/AUS/interior03.jpg
+SHA1-Digest: A+g08BtowkK554ceIJACPnanMW8=
+
+Name: pelib/Crack.class
+SHA1-Digest: E7+WT9kssn8blcHDs/+I7vw7HXQ=
+
+Name: com/sun/jimi/core/options/IntOption.class
+SHA1-Digest: hATiPx1ibJDpxm/vMbhWTHUic9o=
+
+Name: com/sun/jimi/core/compat/JimiDecoderBase.class
+SHA1-Digest: /cRq2k/V/zG3hDduH+qbKgVAza0=
+
+Name: premasked/NZ/interior04.jpg
+SHA1-Digest: HN8ySxPlTlq9jcQi6kP8LoSrAcY=
+
+Name: com/sun/jimi/core/JimiRasterEncoderSupport.class
+SHA1-Digest: qU64mR4vOOSvOuycc9dAuWfiU/c=
+
+Name: ui/loadFromFile_down.png
+SHA1-Digest: sBx3l1VNaxQRjReeVUL0nhx8jeY=
+
+Name: org/ksoap2/serialization/SoapPrimitive.class
+SHA1-Digest: DoECkzVwHnQcXxmRujAlSLQ+wTg=
+
+Name: ui/faq_up.png
+SHA1-Digest: JIHnE8j8AidG0Vxn2DbWuQ8d8kw=
+
+Name: pelib/scissors/GreedyDistanceScissor.class
+SHA1-Digest: GOdWU4rT1Ghq64ybh4vjeQnhLzw=
+
+Name: ui/editArea_deactivated.png
+SHA1-Digest: gGG3Q7DXLG7ydTfuqoQGZAoL49s=
+
+Name: com/sun/jimi/util/ObjectOutputToStreamAdapter.class
+SHA1-Digest: 4BCcRTrfZb1ncOi7GhNgcuK8pnk=
+
+Name: com/sun/jimi/core/filters/ImageFilterPlus.class
+SHA1-Digest: b0I9x9Ho55udrGjtgjfA35ShyHs=
+
+Name: com/sun/jimi/core/decoder/apf/APFExtension.class
+SHA1-Digest: L/FPTExtRPW6czIdOsHFg9NJdvk=
+
+Name: com/sun/jimi/util/ObjectInputToStreamAdapter.class
+SHA1-Digest: 2DO+Yxeq9VdURnXzvwLBIdpGFMs=
+
+Name: com/sun/jimi/core/encoder/pict/PICTEncoderFactory.class
+SHA1-Digest: H0K/1t+GtswYYj9GWjzbyPkRxdY=
+
+Name: com/sun/jimi/core/raster/ByteRasterImage.class
+SHA1-Digest: ali/2Pmqa+XKKrX/s1wjGtQBbgU=
+
+Name: com/sun/jimi/core/encoder/jpg/Mcu.class
+SHA1-Digest: GSmv+ADA7Tla/AZcxeXIejjTJ6A=
+
+Name: dulux/DuluxMyColour$MessageBox.class
+SHA1-Digest: ZhTD2EFQ1TkKPvI/tg8vKWclZOc=
+
+Name: com/sun/jimi/core/encoder/png/PNGWrite.class
+SHA1-Digest: Ce1McmKNCTaLjHMao+Kv1di7InE=
+
+Name: duluxskin/SkinnedButton.class
+SHA1-Digest: SwBi7JYB7d8i6prFAVIjzfdFVuI=
+
+Name: com/sun/jimi/core/JimiEncoder.class
+SHA1-Digest: R0OJIfA3xyjQ+yKU1gmfewPcoko=
+
+Name: pelib/EasyPaintManager.class
+SHA1-Digest: S2+QwgF21SBuSuAVctWxWYohlIo=
+
+Name: com/sun/jimi/core/encoder/apf/APFEncoder.class
+SHA1-Digest: b6nclyCX59CFqjPe8hsJa0HqpMc=
+
+Name: pelib/SuperRegion.class
+SHA1-Digest: mi1odal/ahHGnum5f8vwnZGTtyk=
+
+Name: ui/128x39_paint_down.jpg
+SHA1-Digest: j1Zsb9wtV+r8lamgzzj8skUzB1Q=
+
+Name: com/sun/jimi/core/component/CroppedPreviewCanvas.class
+SHA1-Digest: vndSXZ5Rs1X40MK/PBx89b1FaNE=
+
+Name: com/sun/jimi/core/encoder/jpg/HuffTbl.class
+SHA1-Digest: UYLqh9ZGP5viQMhDqc8+goZCt9Q=
+
+Name: pelib/filters/Convolution2PassFilter$Contribution.class
+SHA1-Digest: ROo3TZ1ODuNi1ZcZ8Ln/BK9AbG8=
+
+Name: com/sun/jimi/core/util/LongColorModel.class
+SHA1-Digest: QyEIctKfDgvD0ce5Z6jTNNfgdu4=
+
+Name: pelibskin/Widget.class
+SHA1-Digest: OAnVg7t56u+qWBvYRlOhxJ0dCjw=
+
+Name: org/ksoap2/serialization/DM.class
+SHA1-Digest: 8uprQfQMOct+dMZ8FY2WWG0xjGg=
+
+Name: pelibskin/SkinnedList$1.class
+SHA1-Digest: SXrmCsRgc9LKfpYofFhj/mnvEBY=
+
+Name: dulux/DuluxPalette.class
+SHA1-Digest: shFZ7gaQwmvrh2O4b6J5CaD40gs=
+
+Name: pelib/ui/ProgressBar.class
+SHA1-Digest: A4i/6k++b69B8fDEbxzgwR4lcsQ=
+
+Name: ui/128x28_change_selected.jpg
+SHA1-Digest: qZ138xffr8dGrP8+U3IFWBlpfi8=
+
+Name: ui/128x39_eraser_deactivated.jpg
+SHA1-Digest: eLgFljri3iwgaMDllUXiqVbk3LE=
+
+Name: ui/colourwall_specialty_trim_up.jpg
+SHA1-Digest: djnuXTJPaebG26GNreaUdqilCpI=
+
+Name: ui/save_down.png
+SHA1-Digest: 0fK9pXMVXwtHxZ5TeQU1ktl04fg=
+
+Name: dulux/DuluxMyColour$9.class
+SHA1-Digest: PC1liRqlEKJz2CcJyT41pYT2/m0=
+
+Name: dulux/DuluxErrorLog.class
+SHA1-Digest: w60wXVKq8KXV5GYZxcF0Hkva8+Y=
+
+Name: com/sun/jimi/core/decoder/tga/TGAColorMap.class
+SHA1-Digest: pGoIpTsplMpdfdUnUSXuDilqNss=
+
+Name: ui/dulux.png
+SHA1-Digest: qJREwfEHwDTmn7Upmu2HLB8zbAM=
+
+Name: com/sun/jimi/core/decoder/tiff/CCITT3d2Decomp.class
+SHA1-Digest: b5X2m8JUl8vvh6R9x57mTNBlzq0=
+
+Name: pelib/MaskDataSet.class
+SHA1-Digest: 5LK/x7eM3uUi6P3XZiXVty0AGlw=
+
+Name: ui/editArea_down.png
+SHA1-Digest: j/LgJthE+nJz0tu+O+W+0JHUyt8=
+
+Name: dulux/DuluxMyColour$14.class
+SHA1-Digest: z2wODDv2GzCJBfCdKqxdSHFWheM=
+
+Name: com/sun/jimi/core/encoder/psd/PSDEncoderFactory.class
+SHA1-Digest: gVxB9DZciaYlErn+DbiXY8mr9pQ=
+
+Name: duluxskin/ExceptionListener.class
+SHA1-Digest: UHKYg+17rx6UutNGpimZeOMNq7s=
+
+Name: com/sun/jimi/core/compat/JimiEncoderBase.class
+SHA1-Digest: tPIIXANuIsZ9BEJrYsRRHjBCaT4=
+
+Name: pelib/Toboggan.class
+SHA1-Digest: butOH8fYBk0APlPhaHinLA6iHDY=
+
+Name: ui/colourwall_specialty_shades_up.jpg
+SHA1-Digest: Scv20mNRALgX4XErjV6TOj0RYDo=
+
+Name: ui/help_eraser_text.png
+SHA1-Digest: iU6IsXieDAuOYceu0danNj/XER0=
+
+Name: ui/add_area_down.png
+SHA1-Digest: EZ8wCvzS9hHL/RVcG1TbcVeop8w=
+
+Name: com/sun/jimi/core/component/ScrollPaneLayout.class
+SHA1-Digest: qvB/pmYM84CVDnsV3RCBOiqX4RA=
+
+Name: com/sun/jimi/core/raster/JimiRasterImageSupport.class
+SHA1-Digest: TE3FGPCQVcmnXW8ln4gP3oEADzA=
+
+Name: ui/help_icon_left.png
+SHA1-Digest: m0smmduExa63xFJspegYToud310=
+
+Name: com/sun/jimi/core/filters/EnhancedCropImageFilter.class
+SHA1-Digest: TZtUQgLq8SzlAurV4+X1JnnW4Pw=
+
+Name: com/sun/jimi/core/encoder/jpg/CompressSetup.class
+SHA1-Digest: lGJ1rYgjIj6fZXlPt/DwfRubMCA=
+
+Name: dulux/DuluxMyColour$15.class
+SHA1-Digest: LMLw44DMU5FvsIfTGQWMHa2xTUo=
+
+Name: org/kobjects/pim/PimWriter.class
+SHA1-Digest: RcEdfLd7SIt4nUiRFoAv0J7RQDM=
+
+Name: com/sun/jimi/core/VMemJimiImageFactory.class
+SHA1-Digest: J9gHw5dLOZAlBrtSFu9GGyWiX/I=
+
+Name: premasked/NZ/interior01.jpg
+SHA1-Digest: //z4VZGeJzy9G55ZKMAwkVBNr0s=
+
+Name: dulux/DuluxSaveAndLoad.class
+SHA1-Digest: rWSBLqv7BbN5cfCCLdPRIPtQeDI=
+
+Name: dulux/DuluxMyColour.class
+SHA1-Digest: fTFzXzWMSHcZYePjxgbJ30EGSLc=
+
+Name: dulux/DuluxMyColour$22.class
+SHA1-Digest: tiLQo2cg0kuznS4/wm09SLZc2lI=
+
+Name: dulux/DuluxSchemes.class
+SHA1-Digest: KdPyalxTnNidzLwLCiE+Nvk9DR4=
+
+Name: org/kobjects/base64/Base64.class
+SHA1-Digest: zU77EKKCU3vJiXp/5O9YRa23dJE=
+
+Name: com/sun/jimi/core/decoder/png/PNGDecoderFactory.class
+SHA1-Digest: UJENzOOmJE149kisdi2xAF/k0WY=
+
+Name: premasked/AUS/interior05.jpg
+SHA1-Digest: EWkP/LgynLXzIR+yYZoDZ3GpKJs=
+
+Name: com/sun/jimi/core/encoder/jpg/Write.class
+SHA1-Digest: WgjsE3CaSCdvGPx6KwVlj0QvqJM=
+
+Name: com/sun/jimi/core/JimiImageFactory.class
+SHA1-Digest: 8oStQ3xGBbDmqjKbQnSP67H5rr4=
+
+Name: dulux/DuluxMyColour$24.class
+SHA1-Digest: Q+h/+XEoxnB/mzD/dFu3ko+fNFA=
+
+Name: pelib/Trap.class
+SHA1-Digest: RqH2bjhHu1LxKfjE2uUDUVTY0d4=
+
+Name: pelib/AddMaskCommand.class
+SHA1-Digest: HNLZqhGoml2tQXXdq2NybRN/hvc=
+
+Name: pelib/filters/HermiteFilter$1.class
+SHA1-Digest: mc3j3N/wX3t5Tht/RJxA+oEySCk=
+
+Name: ui/whites_selected.jpg
+SHA1-Digest: tUyrrWbo1hjZqs7MFl0AHOtovoM=
+
+Name: com/sun/jimi/core/encoder/apf/APFEncoderFactory.class
+SHA1-Digest: LnWRpjrbt64XFF7567JqE7NJ9NY=
+
+Name: com/sun/jimi/core/decoder/gif/GIFDecoder.class
+SHA1-Digest: AGPhIzpJuLW5L1vAPk3vYI/r6y0=
+
+Name: ui/help_load.png
+SHA1-Digest: E+TBCW4njyTvIBhULJ/Pr0Ep1cw=
+
+Name: com/sun/jimi/core/filters/Flip.class
+SHA1-Digest: A66IxouwvhxyIDRqQb3J6CerFZY=
+
+Name: ui/close_up.jpg
+SHA1-Digest: 2iwfy1jUxSeFfvGN2W/MWuCIGuY=
+
+Name: com/sun/jimi/core/vmem/BytePageFrame.class
+SHA1-Digest: BNXiZHhefWWxFJjGRL/T97x5H7w=
+
+Name: pelibskin/SkinnedScrollbar.class
+SHA1-Digest: 8U059FDTri7i+KkLvkNq0lA8+ls=
+
+Name: com/sun/jimi/core/JimiWriter$1.class
+SHA1-Digest: LXl+Dgp6ybhDHNrca0wmTfhpKnE=
+
+Name: premasked/AUS/interior12.jpg
+SHA1-Digest: 8PhZhiZr/hWhZ0coN24YEYYnLDM=
+
+Name: com/sun/jimi/tools/Debug.class
+SHA1-Digest: SsU8OqW+QzmJ1p3/TeAg11FRPpg=
+
+Name: pelib/ui/PrintPreviewDialog$PreviewArea.class
+SHA1-Digest: 5oStmvtJerPb3mevX/yyLCMUE50=
+
+Name: ui/128x39_return_deactivated.jpg
+SHA1-Digest: HGybEmtcOlDHTX1TbGdY1IMGxzI=
+
+Name: com/sun/jimi/core/decoder/pict/PICTFileHeader.class
+SHA1-Digest: DdOqxxLmIGdb+4zfTQ5bOmW48Lk=
+
+Name: com/sun/jimi/core/encoder/jpg/util.class
+SHA1-Digest: RzAVkIXbBIUPGi+hM8gg5QP48UQ=
+
+Name: ui/centre_image_down.png
+SHA1-Digest: BrqpimfzggydKrTDYj1M06H4peY=
+
+Name: dulux/sax/DuluxHuesReaderSAX.class
+SHA1-Digest: j7dPdeg4Z2HjlyIH901eDEDLcSw=
+
+Name: ui/88x39_saveProject_selected.jpg
+SHA1-Digest: htJq/f+FyUEHqZnSbAz+YB1QUZI=
+
+Name: com/sun/jimi/core/encoder/tga/TGA24Encoder.class
+SHA1-Digest: N970nbp067R0i9u2Ru2RRJIGj4Q=
+
+Name: org/ksoap2/servlet/SoapServlet.class
+SHA1-Digest: ucZbdda6+Sx3DquZqzhoTdW4HZ4=
+
+Name: org/kobjects/mime/Decoder.class
+SHA1-Digest: CJztNiUsGOqErg//0IgkmdWE6K4=
+
+Name: com/sun/jimi/core/raster/VMemChanneledIntRasterImage.class
+SHA1-Digest: CiFZi1x5Cxde1hAawv61SIbfH0A=
+
+Name: pelibskin/SkinnedSlider.class
+SHA1-Digest: +SiEo2oszCJNFAYEVKt8n+P65WQ=
+
+Name: com/sun/jimi/core/decoder/ico/IconDir.class
+SHA1-Digest: nyLoDCuC9vnvB7pS7bsWbLjG4zs=
+
+Name: premasked/NZ/exterior01.jpg
+SHA1-Digest: YbHoSWZHoUrayJFbxm9ydc9kXsY=
+
+Name: com/sun/jimi/core/MemoryJimiImageFactory.class
+SHA1-Digest: IxaF18BEO7YaSFZNqxtfmpX61WI=
+
+Name: ui/greens_down.jpg
+SHA1-Digest: EDzN4IYix7++u5mJEVVWuszvwCU=
+
+Name: dulux/DuluxMyColour$MessageBox$2.class
+SHA1-Digest: Ju2pPHPWsTSegg1eDOKfVzNa1RY=
+
+Name: pelib/filters/PointFilter.class
+SHA1-Digest: LDASUUFNfpztf4ZyjwkxR+ahZtI=
+
+Name: com/sun/jimi/core/decoder/ico/BitmapInfoHeader.class
+SHA1-Digest: oCRG0RJEVhFpn5ZESKq1ciWrnG4=
+
+Name: ui/centre_image_up.png
+SHA1-Digest: DgyXy0I9/Em85k10ugrm8+ufOho=
+
+Name: org/kobjects/util/ChainedRuntimeException.class
+SHA1-Digest: I/V1SxGjcpwVKmbLmfOaSJPZZI0=
+
+Name: ui/128x39_mask_deactivated.jpg
+SHA1-Digest: AbFCTED/tAcq57WBXNokd5XyLzA=
+
+Name: ui/colourwall_specialty_trim_over.jpg
+SHA1-Digest: pXLdsKIq+7TJLrZwZF53Zc3FTn0=
+
+Name: ui/128x39_eraser_up.jpg
+SHA1-Digest: Muhl6fDQSWoMqQIoQ0Z2qQdVbxY=
+
+Name: ui/help_changeColour.png
+SHA1-Digest: 62oPy8vZ0XbbTAxI+boWGwOj1fI=
+
+Name: ui/slidedown_down.jpg
+SHA1-Digest: nJklDEXB/YTDRREmdtPYDKZ2DUc=
+
+Name: com/sun/jimi/core/raster/OneshotIntRasterImage.class
+SHA1-Digest: LW6YzqDXKITwKv/D5NqquZO4y/M=
+
+Name: com/sun/jimi/core/encoder/jpg/Sample.class
+SHA1-Digest: Dok+e2+w3FEkW4ndJW9EtTHh3iY=
+
+Name: com/sun/jimi/core/encoder/sunraster/SunRasterHeader.class
+SHA1-Digest: QuFhjQEE2QaO54zAU9yB+uafGB4=
+
+Name: com/sun/jimi/core/util/StaticPalettes.class
+SHA1-Digest: odzXSU9OqiD9Pdzb29cQaqW4fZ4=
+
+Name: com/sun/jimi/core/component/SmartCroppingPanel.class
+SHA1-Digest: T6UfnGbR8hB+c3URBpNBXKMvRZI=
+
+Name: duluxskin/Skin.class
+SHA1-Digest: qdyHKxv6zur6lbJIajsLXZ+HcP8=
+
+Name: ui/88x39_saveProject_up.jpg
+SHA1-Digest: BrKOAEB6oT5G6b6ZGGIRoOJMNpA=
+
+Name: dulux/TestLoadFromWebService.class
+SHA1-Digest: 1JLQSOEz/udDN5fNfs1woz6rz6E=
+
+Name: com/sun/jimi/core/JimiMultiImageRasterDecoderRunner.class
+SHA1-Digest: kVKigW4sld3hzPwZ4ogI/1atnvs=
+
+Name: com/sun/jimi/core/encoder/sunraster/RGBSunRasterEncoder.class
+SHA1-Digest: lsJUrXRd/idi8eKzmOpodim101g=
+
+Name: pelib/ImageBase.class
+SHA1-Digest: ffCJJzaTnJDi5FBr9m+l5+bZZUk=
+
+Name: pelib/ThreadWrapper.class
+SHA1-Digest: BqPjd+GpUNd8aBq7mN+MmaVjgL0=
+
+Name: com/sun/jimi/core/util/JimiImageFactoryProxy.class
+SHA1-Digest: NhVPn7AC3wLwTNaiVgpAfVutLQs=
+
+Name: duluxskin/SkinnedLabel$1.class
+SHA1-Digest: asAXf5Jfg89QKSO1eCiVbJOlJ+8=
+
+Name: org/ksoap2/transport/HttpTransportSE.class
+SHA1-Digest: O0lTEEWHFKZMFdaPK8UZqvhus3c=
+
+Name: org/kxml2/io/KXmlParser.class
+SHA1-Digest: IJGvV0r3K3ud9zT17hoCEF6Liao=
+
+Name: dulux/DuluxPaletteView$PainterThread.class
+SHA1-Digest: 9UXXJTM4c7WmzMnBFMyuWyg7r1g=
+
+Name: ui/save_up.png
+SHA1-Digest: 2xvP8ZrTSPm7ynucQ+pu7K8G4rc=
+
+Name: com/sun/jimi/core/encoder/bmp/BMPEncoderIfc.class
+SHA1-Digest: thViKiQkL011BvxkKL7okLGB5cA=
+
+Name: duluxskin/SkinnedList$1.class
+SHA1-Digest: N2O6eQQU5Ydhw0CLyjpren6kxPs=
+
+Name: ui/thumbsprevious_down.png
+SHA1-Digest: U5yYvGh8Cyoa69LKU0/G4i6yn7g=
+
+Name: ui/help_editLayer.png
+SHA1-Digest: g4YS4/o7LGt26iOxvREy5MN3BTQ=
+
+Name: dulux/DuluxMyColour$25.class
+SHA1-Digest: DR9GU3k+qN7RBfiFBkQaJVARkHU=
+
+Name: com/sun/jimi/core/decoder/ico/ICODecoderFactory.class
+SHA1-Digest: 2uAI8FDIi11trZH62jUjNxF+Ink=
+
+Name: ui/128x28_coloursOfNZ_selected.jpg
+SHA1-Digest: 7IptTKI+1Fz3Sa3iPPyL9YVo5Y4=
+
+Name: org/xmlpull/v1/XmlSerializer.class
+SHA1-Digest: feky2PyEXZOPsZd1O+pfMj0ctQY=
+
+Name: com/sun/jimi/core/decoder/tiff/TiffNumberReader.class
+SHA1-Digest: tWgptSuxSANhou7+2HRwJVdMs68=
+
+Name: pelib/BeginEraseCommand.class
+SHA1-Digest: 1ARG6UBBhyN+xzYVUeZmTqYWRAQ=
+
+Name: ui/128x39_loadProject_up.jpg
+SHA1-Digest: idHJX+bRgEPdXIp+nnuf+YeAYho=
+
+Name: ui/save_PC_up.png
+SHA1-Digest: QHT8l6rhiOme3JTth5LI94PD04I=
+
+Name: com/sun/jimi/core/decoder/tiff/CCITT3d1Decomp.class
+SHA1-Digest: ZM8VsT7bHxRm+ZC7J17e/X7weiI=
+
+Name: com/sun/jimi/core/decoder/apf/APFDecoderFactory.class
+SHA1-Digest: kxPIvD/4yZGf1+HEJLQflpkaIDg=
+
+Name: com/sun/jimi/core/encoder/png/png_chunk_ihdr.class
+SHA1-Digest: 2vwNdK5MWtQTEuVZ0fMyGjccG8Y=
+
+Name: com/sun/jimi/core/JimiRasterDecoder.class
+SHA1-Digest: aY/GJgLNxsZ4GnyMOI3eg9o5avc=
+
+Name: com/sun/jimi/core/encoder/jpg/Shared.class
+SHA1-Digest: QJPaPj62kbEWXFK6RAMv0wJVSV0=
+
+Name: pelibskin/SkinnedProgress.class
+SHA1-Digest: +DurwhJ6nb9NW45tYCHfZfFdt+0=
+
+Name: com/sun/jimi/core/component/SmartScrollingRenderer$ResizeWatcher
+ .class
+SHA1-Digest: 0yq3zuJXBDikJpbXpyPwULAW4Yk=
+
+Name: com/sun/jimi/util/ByteCountInputStream.class
+SHA1-Digest: v1QnQXCUjBOEg9kuzf1lbPZq68U=
+
+Name: com/sun/jimi/core/util/x11/XpmParser.class
+SHA1-Digest: f2FbjtNtERam9nbNyQAL0oxs1Ak=
+
+Name: ui/selected.jpg
+SHA1-Digest: SoLGnWSi6jkNzQBxxq3Bk2Jjkaw=
+
+Name: ui/88x39_zoomOut_deactivated.jpg
+SHA1-Digest: ibosReTvexHMv9UJFhGsbl3CpF0=
+
+Name: com/sun/jimi/core/decoder/xbm/XBMDecoder.class
+SHA1-Digest: l6mAw0+cx+AQvEO0/4b5S6LVD8k=
+
+Name: pelib/scissors/GreedyLineScissor.class
+SHA1-Digest: FPj0OYiDzN8Gh2wDe8itCtw791Y=
+
+Name: premasked/NZ/PreMasked.xml
+SHA1-Digest: ADiRy/LFluyx6bgsc3nFaQhq/WA=
+
+Name: com/sun/jimi/core/JimiDecoderFactorySupport.class
+SHA1-Digest: hjivdINYIBgaIENUfCOnt+UHal4=
+
+Name: org/ksoap2/serialization/MarshalBase64.class
+SHA1-Digest: bKQfC90g8jyWsF1Yr5GMxCBlv+8=
+
+Name: com/sun/jimi/core/JimiImage.class
+SHA1-Digest: 7z6Mc/uACbwT5qUssOqU+qk4OcQ=
+
+Name: dulux/DuluxMyColourFrame.class
+SHA1-Digest: rYK2FLiFG+puzc22mB6ZoRYjdeo=
+
+Name: com/sun/jimi/core/options/PSDOptions.class
+SHA1-Digest: Uqe753/7AuiAD1aopgUjdbkByhE=
+
+Name: ui/128x39_eraser_selected.jpg
+SHA1-Digest: vK7YPoEchSiuZ1PN2yk463QVswI=
+
+Name: com/sun/jimi/core/util/LEDataOutputStream.class
+SHA1-Digest: EifNELjrPJpZP/HcHoRlT61DnG8=
+
+Name: pelib/PaintExplorerException.class
+SHA1-Digest: cmh+fGiQbISO4wI4622Xv2vAkx8=
+
+Name: com/sun/jimi/util/PropertyOwner.class
+SHA1-Digest: y6k8dS5iIMg/TmCzOT7Yy21ZMWw=
+
+Name: pelib/lighting/LightingAlgorithm.class
+SHA1-Digest: IV9zOCXo4Xb2aME4/JcUOGJ45ZE=
+
+Name: dulux/sax/DuluxColourLoaderSAX.class
+SHA1-Digest: reebD/HCQ+glAhm0fq+EN2+NWo4=
+
+Name: pelib/scissors/DijkstraPriorityQueue.class
+SHA1-Digest: blqbTMo1MhcM/CSKzI7HIGNALAA=
+
+Name: pelib/ScissorsStateCommand.class
+SHA1-Digest: Xjs35IGaKbFY4JRjIvhf2XgQGHM=
+
+Name: org/kobjects/pim/PimParser.class
+SHA1-Digest: aKiiBKN3ply8Y9w9qvAdbZWSuzA=
+
+Name: ui/editLayer2.jpg
+SHA1-Digest: DkGypOEFAYsSz76/hVY/GbZCcmg=
+
+Name: DuluxMyColourApplet.java
+SHA1-Digest: ad5A8MD/e3g395Z0YSbXTdOOfk8=
+
+Name: com/sun/jimi/core/component/JimiCanvas.class
+SHA1-Digest: SjGa82zinA8rkOQFYyfih1dvDR0=
+
+Name: com/sun/jimi/core/OneshotJimiImageFactory.class
+SHA1-Digest: 2RfMSisNea858IcMWQkqghOV+Rk=
+
+Name: com/sun/jimi/core/vmem/BytePageMapper.class
+SHA1-Digest: GmBVFZ+/rFER38VMNIJshFLt0UM=
+
+Name: org/ksoap2/serialization/MarshalHashtable$ItemSoapObject.class
+SHA1-Digest: nOi9S+sGRAHfshHOfhru/LuIK8c=
+
+Name: com/sun/jimi/core/decoder/pict/PICTPixmap9A.class
+SHA1-Digest: QDJCMaBXr6lH0RkyvHvkvSM4Gk8=
+
+Name: premasked/NZ/interior07.jpg
+SHA1-Digest: 6lXI0SvxPuMbJzE51P6f6G9zeRo=
+
+Name: premasked/NZ/exterior02.jpg
+SHA1-Digest: lePkEx3xJ1wOVDrJMKUroAKJyDA=
+
+Name: com/sun/jimi/core/filters/Gamma.class
+SHA1-Digest: 7WNnuG48ZVllG2NGCwsG164MOXM=
+
+Name: com/sun/jimi/core/decoder/png/IDATEnumeration.class
+SHA1-Digest: sm8iegh26nbNAe+e95+OjelNRdM=
+
+Name: com/sun/jimi/core/options/JPGOptions.class
+SHA1-Digest: 7HFWtX/ldtdpz5CwjuSyQLmWy8g=
+
+Name: ui/backgroundColourWall_AUS.jpg
+SHA1-Digest: MUUY8JbPqLhnJRtHw4bZtuS+Hgg=
+
+Name: ui/specialties_up.jpg
+SHA1-Digest: rt8G8w4aPRJcmaZCGREedhekZHw=
+
+Name: com/sun/jimi/core/decoder/psd/PSDDecoder.class
+SHA1-Digest: CbaIGsALmJgrd+asXn5rdWw3CAU=
+
+Name: com/sun/jimi/core/encoder/png/PNGConstants.class
+SHA1-Digest: xdNVfIaGpNIE6/OpkS8ctTkuHUk=
+
+Name: pelib/PaintExplorerScissorHistoryEvent.class
+SHA1-Digest: nOz2vVuNSbB5ImQV+zTUb0DlihE=
+
+Name: dulux/DuluxMyColour$17.class
+SHA1-Digest: fuaIPwwYBuKBAiCHxbguPgVQK7M=
+
+Name: pelibskin/SkinnedButton.class
+SHA1-Digest: a5w10q9MAks+6fgrkQLGo4AhTPU=
+
+Name: com/sun/jimi/core/options/FormatOptionSetSupport.class
+SHA1-Digest: nW6kGwx3xAQTl7GYglqr/TvFAVo=
+
+Name: PkgInfo
+SHA1-Digest: n57qDP4tZfLD1rCS43W0B4LQjzE=
+
+Name: com/sun/jimi/core/encoder/tga/TGA8Encoder.class
+SHA1-Digest: Sb0WSNT6aQIo49/CNZroGUCCljg=
+
+Name: ui/88x39_zoomOut_up.jpg
+SHA1-Digest: b5IciLnOwFfWzAifWHl2BTUqWFQ=
+
+Name: com/sun/jimi/util/IntegerRange.class
+SHA1-Digest: Wb9GPZ9pieATyhCFvYPIk4lDQq4=
+
+Name: pelib/Colour.class
+SHA1-Digest: YcWxmWwFQqjpc1/ciRMlds76PUs=
+
+Name: duluxskin/SkinnedPopupList.class
+SHA1-Digest: vBcNKu07jYlhPc8qI1uH88MNm9s=
+
+Name: ui/88x39_saveProject_down.jpg
+SHA1-Digest: vOkVx/5xI1oIEnSUGsf52fHGhog=
+
+Name: com/sun/jimi/core/raster/JimiRasterImageCategorizer.class
+SHA1-Digest: u7NAgDtAB4qql9LpASShKYf5GEM=
+
+Name: com/sun/jimi/core/decoder/bmp/BMPFileHeader.class
+SHA1-Digest: CgHjXf4c3uIAMLXloQA91kYGcKA=
+
+Name: ui/return_selected.png
+SHA1-Digest: XBY+aKRfu5NPU7UJTS3pWciMXiY=
+
+Name: PreMasked.xml
+SHA1-Digest: w8AjDju0SFbjc4rsRQKVmVhAYmE=
+
+Name: pelib/PaintExplorerProgressEvent.class
+SHA1-Digest: DsajBFM68yMJ4AUOgion92VuGl8=
+
+Name: pelib/filters/ResizingConsumer$1.class
+SHA1-Digest: x3Z9Vs7KXZeUzoeCKkThtaJKNTo=
+
+Name: com/sun/jimi/core/decoder/xpm/XPMDecoderFactory.class
+SHA1-Digest: SSSos80vD5kDySku37TpZ+7ZANI=
+
+Name: ui/ok_up.jpg
+SHA1-Digest: BgVI5wHSpwMz4JRK53liWQQwhq0=
+
+Name: com/sun/jimi/core/encoder/jpg/JPGEncoder.class
+SHA1-Digest: j/3dpxGrKk1dfJj3o6SuAjKoj0k=
+
+Name: ui/88x39_saveImage_up.jpg
+SHA1-Digest: aStmnguC3NpD56ijDNm0tJR09g4=
+
+Name: ui/reds_up.jpg
+SHA1-Digest: ktUeqtpGQv5+ZRWZiMO782hD7P8=
+
+Name: org/kobjects/xmlrpc/XmlRpcParser.class
+SHA1-Digest: hbRFpBYreIwN8YD/XQqef8JWDt8=
+
+Name: ui/help_addlayer.png
+SHA1-Digest: ss33fCZvReohatVqiCRoYQEML18=
+
+Name: ui/save_PC_down.png
+SHA1-Digest: uehZLmIxXlRpv2IX9VU/EAGOijU=
+
+Name: pelib/PaintExplorerEvent.class
+SHA1-Digest: 0wNo9dUCO21XYDly7D02E6KkYYY=
+
+Name: com/sun/jimi/core/encoder/cur/CUREncoder.class
+SHA1-Digest: GpA1R4APPhb8iNOq+CXbPvCuz1U=
+
+Name: pelib/ManualPaintManager.class
+SHA1-Digest: qQ4ZcYZ0y2mvLR/AXzHZzZpqQIg=
+
+Name: dulux/DuluxPaletteView$1.class
+SHA1-Digest: ONkhtIV0hzbAlWMLEfLuIbbtq50=
+
+Name: com/sun/jimi/core/decoder/pict/PICTDecoder.class
+SHA1-Digest: Idjgwss/GVI6BT0Ob1jB2vi2gsc=
+
+Name: ui/colourwall_specialty_spray_up.jpg
+SHA1-Digest: udOSBtJ3Oik9rq67YudXdBJ1FpY=
+
+Name: premasked/AUS/interior07.jpg
+SHA1-Digest: 2eN8FI7EyVOhqoco1R/ooNMAcY8=
+
+Name: pelib/lighting/DaylightLighting.class
+SHA1-Digest: z7zpPUKUW0Ip1iMQIRi8Zx/hAwo=
+
+Name: premasked/AUS/exterior02.jpg
+SHA1-Digest: Tz4bNTz/PLT5wBpCjJkBFPCwZxY=
+
+Name: ui/128x39_eraser_down.jpg
+SHA1-Digest: TCbCwdz+uvqiPnPkRZHbK7Ccx9c=
+
+Name: ui/128x39_loadProject_down.jpg
+SHA1-Digest: kFz+O2mrKmtnxiZU5IwGmpiW5PA=
+
+Name: duluxskin/SkinnedButton$RepeatPressThread.class
+SHA1-Digest: ibmK/kk7Vt0pHtsfrzLzWJcub3w=
+
+Name: com/sun/jimi/util/Range.class
+SHA1-Digest: QJBhrRXlYadZ60GneppEkQSqqCQ=
+
+Name: com/sun/jimi/core/filters/Tile.class
+SHA1-Digest: A+hrsF/wApwUT2ait8w6x+kB9BQ=
+
+Name: pelib/PaintExplorer$RecolourData.class
+SHA1-Digest: Po3179pS9ci3ZUe/DtRzmVsDlfw=
+
+Name: com/sun/jimi/core/encoder/sunraster/SunRasterEncoder.class
+SHA1-Digest: 7QdOqBjKK9oFQQgE33gpGGR5vjQ=
+
+Name: pelib/Histogram.class
+SHA1-Digest: 6taCeGCCqKatJyPDiCJqr/yZbPM=
+
+Name: ui/128x39_mask_down.jpg
+SHA1-Digest: 7/b64f0/0xMfFxPfTzK7M1QQaUM=
+
+Name: premasked/AUS/interior14.jpg
+SHA1-Digest: 3QpxWwV0qKayWV0YSBTY5LFQzXU=
+
+Name: ui/colourwall_specialty_spray_over.jpg
+SHA1-Digest: NjYv4z6v6vSNrVYH/nDqD9U9hQU=
+
+Name: com/sun/jimi/core/options/BasicFormatOptionSet.class
+SHA1-Digest: FTnFsiJD0mmDYmmfN1iIrDoYv5U=
+
+Name: premasked/NZ/exterior04.jpg
+SHA1-Digest: DbblucmGuSvc13KtZwP8kBUprII=
+
+Name: com/sun/jimi/core/util/InverseColorMap.class
+SHA1-Digest: 8tJFyR/XZCMovBuMSDtdH/LSrIs=
+
+Name: com/sun/jimi/core/component/BestFitRenderer.class
+SHA1-Digest: Ys4oKd3vi9KQ1ftshP9/6ZdPvjc=
+
+Name: pelib/ui/ColourPaletteDialog$ColourPreview.class
+SHA1-Digest: SLlParQwwiddtlusgty0N5AqE6k=
+
+Name: ui/save_inactive.png
+SHA1-Digest: kg0+2/EGIOUGjmwLrYdMm+gxlm0=
+
+Name: pelib/filters/SobelFilter.class
+SHA1-Digest: /xU+shT3NKeBAvtWWbiCNxQGaK8=
+
+Name: org/kobjects/pim/PimField.class
+SHA1-Digest: rrWMFi0Imonc+UdYzaiL/RO5ars=
+
+Name: ui/128x39_saveProject_up.jpg
+SHA1-Digest: PpuTcuIUkG+DgmkJ35ekw6PeaGE=
+
+Name: dulux/DuluxMyColourFrame$1.class
+SHA1-Digest: pKuEYVSRmX4inm+fky1KAgDA78Y=
+
+Name: ui/layout_NZ.xml
+SHA1-Digest: yFIzoFDXSM/NnSk4FMx6E+DvoTY=
+
+Name: com/sun/jimi/core/util/OctreeCallback.class
+SHA1-Digest: kM4AMdKrTLjwO+CFrEYbFY9TBok=
+
+Name: ui/tutorials_up.png
+SHA1-Digest: W5aawODJY4h2v7lqVKekN3BWU8A=
+
+Name: com/sun/jimi/core/decoder/tiff/CCITTClassFDecomp.class
+SHA1-Digest: YAc0S8VACm0C2SNq53mxz+OyU+Y=
+
+Name: com/sun/jimi/core/vmem/PageFrame.class
+SHA1-Digest: lrwjYnXTDj7a+Ir3VDpd1aA9Mck=
+
+Name: ui/loadfrompremasked_down.png
+SHA1-Digest: r9QdXz3UeZ9m3WF/nIhJbsuy/C4=
+
+Name: ui/tips_mask_up.png
+SHA1-Digest: SdPy/R2CwZm/ob6OMYjY3FCv/jc=
+
+Name: com/sun/jimi/core/JimiMultiImageRasterEncoder.class
+SHA1-Digest: J/9a12Ob1ZlsFNnfLMuVwxDpozM=
+
+Name: ui/no_active.jpg
+SHA1-Digest: 3XCtP5JEm4nOK69XgNcluWJOHZM=
+
+Name: com/sun/jimi/core/decoder/gif/GIFImageDescriptor.class
+SHA1-Digest: LLQ3J824/RgT3hw/MDfmg9ezIrU=
+
+Name: ui/88x28_change_deactivated.jpg
+SHA1-Digest: OXkek8cqOw+s9ccQd7bLYNR0wqo=
+
+Name: pelib/print/DefaultPrintContentProvider.class
+SHA1-Digest: RF61WMn/6cq4vk8OgkEZjcPO6X8=
+
+Name: premasked/AUS/exterior04.jpg
+SHA1-Digest: DbblucmGuSvc13KtZwP8kBUprII=
+
+Name: ui/traditionals_selected.jpg
+SHA1-Digest: 7PoEbwCI0Q2hIttjpEgpSCLZoV8=
+
+Name: pelib/scissors/ScissorAlgorithm.class
+SHA1-Digest: 8YYGxRD9eQh/6uXgixPjK+tZNtg=
+
+Name: com/sun/jimi/core/decoder/apf/APFDecoder.class
+SHA1-Digest: YLOE+gYhvLayP4tRcCTJrs2rDUY=
+
+Name: com/sun/jimi/core/JimiDecoder.class
+SHA1-Digest: 4WVpJgbxuWdMPhK8uaBZFE4YA5I=
+
+Name: pelibskin/SkinnedListSwatchItem.class
+SHA1-Digest: puEptqx6AI6+nz5flxVd7n4ZAQI=
+
+Name: interior1.jpg
+SHA1-Digest: 22utxhfpqxo6tgPNno+7DGdvXV4=
+
+Name: pelib/Node.class
+SHA1-Digest: BGL/RlMTjSeLfeAZRlPtT17Q85E=
+
+Name: ui/88x39_zoomOut_down.jpg
+SHA1-Digest: SZbnma4YEMVgm0EOms5wp/tyl1Q=
+
+Name: com/sun/jimi/core/util/ProgressListener.class
+SHA1-Digest: Z89ZXblimNZ+2k3PsRIik/rTv3M=
+
+Name: com/sun/jimi/core/decoder/psd/PSDLayersMasks.class
+SHA1-Digest: 6WydeEx794bfs7J75b5fVWh37Jo=
+
+Name: mycolour.gif
+SHA1-Digest: gpRk+GD+qH0TWt/pi5WprxdGC70=
+
+Name: org/kobjects/pim/VCard.class
+SHA1-Digest: ckEm28nm9xTnWEo1yrT8NZl4aZI=
+
+Name: com/sun/jimi/core/compat/JimiDecoderBaseSeriesController.class
+SHA1-Digest: NtIJzsvu6oBAVaShgHgXFJvcvk8=
+
+Name: ui/128x39_mask_up.jpg
+SHA1-Digest: yC+QBRJNTxRnPs8v3HSXeBDog5E=
+
+Name: ui/128x39_paint_up.jpg
+SHA1-Digest: HEq3nSj/eXlyHI8keralYPQAvQ8=
+
+Name: org/kobjects/isodate/IsoDate.class
+SHA1-Digest: vcvTIpTet2Iyj/YlXPyKJKj5Ra4=
+
+Name: premasked/AUS/interior01.jpg
+SHA1-Digest: CVIx9UG+cTj77k90igv76xbLJ+Q=
+
+Name: dulux/sax/DuluxStatusCodeReaderSAX.class
+SHA1-Digest: rMiZ2BdS0AIMQIFvKxf3aI6YU0c=
+
+Name: pelibskin/WidgetGroup.class
+SHA1-Digest: SF6C+ygpEQrELaY9enrXWIcRObI=
+
+Name: com/sun/jimi/core/decoder/cur/CURDecoder.class
+SHA1-Digest: UN6kPEGXbIUI2PrY8w6hu69iab4=
+
+Name: ui/tips_minimized_over.png
+SHA1-Digest: 1lioo0auNiyYj+ENymVn3+UOCqg=
+
+Name: ui/choice.jpg
+SHA1-Digest: AHE2ikWb5/m8xN/LNDguucplCrQ=
+
+Name: pelib/filters/Filter.class
+SHA1-Digest: 3DhBe+uQd4YTz1blMlLGK4Qs5jY=
+
+Name: ui/load_deactivated.png
+SHA1-Digest: IgNtDLYwe0sp827hNG+5xHKNPXE=
+
+Name: ui/colourwall_specialty_garage_up.jpg
+SHA1-Digest: Ergjp5lLuR0eT3ZRKBaPr7c0XcA=
+
+Name: com/sun/jimi/core/encoder/bmp/BMP24Encoder.class
+SHA1-Digest: PUnLs92abN9E3Z9F/LBGyey9vD0=
+
+Name: ui/128x28_coloursOfNZ_down.jpg
+SHA1-Digest: 1/y9LPwMCG27+RQNSMbCtsvj4yY=
+
+Name: com/sun/jimi/core/encoder/png/PNGOptionsObject.class
+SHA1-Digest: 1WixFwnehzU106m56r9njGOpZW0=
+
+Name: com/sun/jimi/core/ImageSeriesEnumerator.class
+SHA1-Digest: O4UZGC9fXMAKbP2oBEw/PACP08I=
+
+Name: pelib/filters/Convolution1PassFilter.class
+SHA1-Digest: bQ22vYELdhH/XqdQRVSakMra4xQ=
+
+Name: com/sun/jimi/core/decoder/builtin/BuiltinDecoderFactory.class
+SHA1-Digest: pu4XvA3ekZjYsdt6aOG3knqGPoU=
+
+Name: org/kxml2/wap/WbxmlParser.class
+SHA1-Digest: lk4EjFvPtr3i35iua2U/1YBue/s=
+
+Name: com/sun/jimi/core/vmem/IntPageFrame.class
+SHA1-Digest: Uk3NsJBLatsds3by0jBNtvBGbNg=
+
+Name: pelib/ImageFloat.class
+SHA1-Digest: IyxU87B0zYFt79QOPYfzXZpI7DE=
+
+Name: dulux/DuluxMyColour$5.class
+SHA1-Digest: Rn3lqGE5bPTLndMXuprJmje+2yg=
+
+Name: pelib/scissors/StraightLineScissor.class
+SHA1-Digest: fPtu9lFTKH4yK2DmcoXGiIN7DkM=
+
+Name: org/ksoap2/transport/ServiceConnection.class
+SHA1-Digest: AiEiLRoSoqriBOqC6MlBTLxzT6E=
+
+Name: dulux/DuluxMyColour$26.class
+SHA1-Digest: mHsdjOD3ipGn8wB3OhIsT34u9Mw=
+
+Name: com/sun/jimi/core/raster/ImportConsumer.class
+SHA1-Digest: YI/x4TtTkvFP43yr6pU0YZ4b82c=
+
+Name: ui/button_88x39_return_down.jpg
+SHA1-Digest: /iWgfKmheS6iwcY49Y0WHXfakLE=
+
+Name: org/ksoap2/SoapEnvelope.class
+SHA1-Digest: 9FonZzjmSQwK5DbOwpjHq7NRsU8=
+
+Name: pelib/ImageDecorate.class
+SHA1-Digest: XX/RDlQP1fMjwh7WH9kcrlv7Lzo=
+
+Name: ui/tips_paint_up.png
+SHA1-Digest: Kik5Th8zQY/wBMOeUu9nbTjserM=
+
+Name: duluxskin/WidgetGroup.class
+SHA1-Digest: RODRBeH9IiM4urCyL14BkEwCh+4=
+
+Name: pelib/filters/HermiteFilter.class
+SHA1-Digest: bASkLAMGhbrHvKYf88fmpQmX9yk=
+
+Name: ui/background_AUS.jpg
+SHA1-Digest: DA2UzB3k0Ovl4ZYaSpYPStSXpbs=
+
+Name: pelib/Memento.class
+SHA1-Digest: je2g/edyScFyIElalAgLB9sSXvg=
+
+Name: com/sun/jimi/core/decoder/png/MeteredInputStream.class
+SHA1-Digest: 9ue36cAYEGagMxQPC7X5kJdCG64=
+
+Name: ui/colourwall_specialty_quit_over.jpg
+SHA1-Digest: K1PczAsGn1OgylzEGRvyCPWqf5w=
+
+Name: com/sun/jimi/core/encoder/psd/PSDColorMode.class
+SHA1-Digest: Ed577NRCn/EOZpqLuMfCPmxaVp0=
+
+Name: ui/tab2_png24.png
+SHA1-Digest: A4ghxP6PebZhfjJsFo80abjK1pA=
+
+Name: com/sun/jimi/core/util/OctreeNode.class
+SHA1-Digest: bOg62U506XTnMMWd2jYWlGy44Zw=
+
+Name: pelib/ui/PrintPreviewDialog$1.class
+SHA1-Digest: MuClSA8tvIwKgout5kJGXZwvjv4=
+
+Name: ui/editLayer.jpg
+SHA1-Digest: qjFd6ORhhkbRjcj/NCZZUfgjeHs=
+
+Name: com/sun/jimi/core/encoder/bmp/BMPEncoder.class
+SHA1-Digest: UHZZ9q43wBSXquX8tsgSyCmCPJM=
+
+Name: pelib/filters/ResizingConsumer$Contribution.class
+SHA1-Digest: uJGZy8ilfo0rCF88+1LCuqEjKkc=
+
+Name: pelib/PaintInputLayer.class
+SHA1-Digest: t/Ws4bhtR9OCCL0DxTsSNU/WoQ4=
+
+Name: com/sun/jimi/core/JimiDecodingController.class
+SHA1-Digest: RiYE9Kt3008mFC5NeU+kKR344ZQ=
+
+Name: ui/128x39_paint_deactivated.jpg
+SHA1-Digest: lUs3z+JSlSYeYV8lycQjEBtkIGQ=
+
+Name: ui/colourwall_specialty_designer_up.jpg
+SHA1-Digest: eGmtGiGGaS4qYQvhz5Wlxp8MO2M=
+
+Name: com/sun/jimi/core/decoder/sunraster/SunRasterHeader.class
+SHA1-Digest: Lh3yG3T5LF7EfK8buav8o+EfLd0=
+
+Name: pelib/filters/GaussianFilter.class
+SHA1-Digest: MuzVFVy0U+R2Lp2KbJuTUAsok70=
+
+Name: com/sun/jimi/core/decoder/pcx/PCXHeader.class
+SHA1-Digest: t4T741S8iaDJ84jRuakjiNLjvYc=
+
+Name: ui/whites_down.jpg
+SHA1-Digest: tlpwtbaR91pEoc1ex6FlwHWz/Bg=
+
+Name: ui/close_down.jpg
+SHA1-Digest: hml2F4q2I8Y1PhuNskIarAjALSw=
+
+Name: com/sun/jimi/core/filters/RGBAllFilter.class
+SHA1-Digest: 8Lyy5IflpQkFnVgsPZ+CUtSzXUM=
+
+Name: ui/85x22_rename_down.jpg
+SHA1-Digest: 1Hm0YBkQB+7irJi6dQeOLccd/DE=
+
+Name: com/sun/jimi/core/decoder/gif/GIFGraphicExt.class
+SHA1-Digest: Kis/fS3xi2dMLqoMIeqBiJ0/aSA=
+
+Name: pelib/ui/ProgressDialog.class
+SHA1-Digest: 55bRADGQBdVxL7aFPrSP4WQGFZQ=
+
+Name: duluxskin/ListEvent.class
+SHA1-Digest: v/eiOz4cbkpzObHmpIsOUXHxdS8=
+
+Name: com/sun/jimi/core/JimiUtils.class
+SHA1-Digest: wwFdO5jBSf0sFzsbTqC1JAtAQDI=
+
+Name: ui/help_eraser.png
+SHA1-Digest: nY3biYwif5BO3MaiFRl6JslEa4g=
+
+Name: com/sun/jimi/core/decoder/pict/PICTBitmap.class
+SHA1-Digest: RmGw+Uh9R5xCz5QDuQSmidIeQBw=
+
+Name: com/sun/jimi/core/decoder/bmp/BMPDecoderFactory.class
+SHA1-Digest: 5+1oUgYrN1Kqon3lZYrYm0heU+U=
+
+Name: ui/slidedown_up.jpg
+SHA1-Digest: UDgqak2B2E6kJ+Pqtlgs4QB9qoc=
+
+Name: dulux/DuluxSelectionDraw.class
+SHA1-Digest: k2OWBz5zr2EYYvA574+5sKKWE2I=
+
+Name: com/sun/jimi/core/decoder/cur/CURDecoderFactory.class
+SHA1-Digest: 4FmpWxsmJNngN3CMCjxZF609M+A=
+
+Name: com/sun/jimi/core/decoder/sunraster/RLEInputStream.class
+SHA1-Digest: GCH9VMaFI5SOGIFi6JZyqPs/8YQ=
+
+Name: duluxskin/SkinnedPlaceholder.class
+SHA1-Digest: W7vYxfRzaGRSTKxJKLl2zpK9KfY=
+
+Name: ui/no_up.jpg
+SHA1-Digest: dYur3ZR4COzYLUBOWJ/nXVBmX7w=
+
+Name: com/sun/jimi/core/JimiSingleImageRasterDecoder$1.class
+SHA1-Digest: 7r8hKgcuiqXXTV/j2djz7+jRhA0=
+
+Name: com/sun/jimi/core/encoder/jpg/ConvertColor.class
+SHA1-Digest: n0NzGHiBduD6vQ10Sqt3MFT8/IE=
+
+Name: ui/standards_on.jpg
+SHA1-Digest: I1Zo3b5EJRwUpqT1nHGYUsCi4Jw=
+
+Name: ui/help_layer_table.png
+SHA1-Digest: UT7dyczQISckX2ZsQqyFq2e52/Y=
+
+Name: com/sun/jimi/core/Jimi.class
+SHA1-Digest: tidRxd9LWPbr2PTduMfhhRYXkY0=
+
+Name: ui/tips_paint_over.png
+SHA1-Digest: 63/4+11BUcvWLG9hKp6V3hvwHrg=
+
+Name: pelib/scissors/DijkstraNode.class
+SHA1-Digest: CwyoUp6druDS7m7S1qE1J3+/YIA=
+
+Name: dulux/DuluxPalette$1.class
+SHA1-Digest: RkY3s40F5oVZqU6aZ4H+Ox0eGxI=
+
+Name: pelib/Area.class
+SHA1-Digest: LItvU3dc9Ag4dO/upqRIoulV+OI=
+
+Name: pelibskin/SkinnedButton$RepeatPressThread.class
+SHA1-Digest: NYyWUx/ziov9Mcz/iRFf/P5SG+Y=
+
+Name: dulux/DuluxMyColour$4.class
+SHA1-Digest: VRnvYAHJpwzzLOC2OIBIT3xK0aw=
+
+Name: premasked/NZ/exterior07.jpg
+SHA1-Digest: Xmad5hhUHoDnnMjuid7llaNoMy8=
+
+Name: com/sun/jimi/core/encoder/png/PNGEncoderFactory.class
+SHA1-Digest: MUNJAVR2hg3jsvADetMg1I3QpYY=
+
+Name: ui/colourwall_specialty_river_up.jpg
+SHA1-Digest: +O0gy6zQLMpQplrE3Izlmmgs5qw=
+
+Name: ui/colourwall_specialty_tuscan_up.jpg
+SHA1-Digest: 84RWmDSnE0ps50kWWgQc7Fl2iKc=
+
+Name: com/sun/jimi/core/util/FSDither.class
+SHA1-Digest: c0ShEe+nlJvIBaQzVZ6Udmq8214=
+
+Name: com/sun/jimi/core/filters/Margin.class
+SHA1-Digest: UxPWNdGKSLW6du2gj54XWpO/pMk=
+
+Name: ui/backtoCategories_up.jpg
+SHA1-Digest: Ea3ZdeXjdLPTZ2v9eoZC+rQyzfQ=
+
+Name: pelib/ScissorsPath$ScissorsBeginCommand.class
+SHA1-Digest: zTIjlyZVvmJ7/vlasYDvlPMBNds=
+
+Name: com/sun/jimi/core/options/BooleanOption.class
+SHA1-Digest: LDEpxRGc9iRig/uK0VB63Kuohgo=
+
+Name: com/sun/jimi/core/util/LEDataInputStream.class
+SHA1-Digest: 0AzblPS76IxPlQNhEsD7wvbSKak=
+
+Name: com/sun/jimi/core/component/JimiImageRenderer.class
+SHA1-Digest: hzV2eAEq0RwKUGmfGiGXS1RB7Ik=
+
+Name: ui/88x28_change_up.jpg
+SHA1-Digest: OOp58/7kjyOJke0hg0ffIVDfyjU=
+
+Name: com/sun/jimi/core/JimiImageEnumeration.class
+SHA1-Digest: 6bKgBRT/pVwWzPtcQnNoplR7QU8=
+
+Name: pelib/ScissorsPath.class
+SHA1-Digest: 73zbhUpTUNb04tx7XnxD4EuBNvI=
+
+Name: pelib/filters/Convolution2PassFilter.class
+SHA1-Digest: E03QE/rFAKxBhPhJR1qLal2X6bA=
+
+Name: pelib/errors_en.properties
+SHA1-Digest: hsbOn5stXlMHjN7Vp9dkg3+tZnI=
+
+Name: dulux/sax/DuluxAddressLoaderSAX.class
+SHA1-Digest: qPZhpbk3L4dUN829zmTjctIxvCk=
+
+Name: org/kobjects/io/BoundInputStream.class
+SHA1-Digest: 0x+boob10PTc7paDv+g53+svLko=
+
+Name: pelib/MaskData.class
+SHA1-Digest: hsGUrijWQjzNe7OI1GiZDpvY+tw=
+
+Name: dulux/DuluxPreMasked.class
+SHA1-Digest: apf35K1udcIudvva4a9EV5KbMME=
+
+Name: ui/myColour4.png
+SHA1-Digest: +RoAbIAr9yxciVvNJ79iRUaugQQ=
+
+Name: pelib/filters/SobelFilter$SobelVerticalKernel.class
+SHA1-Digest: WHCmD7s9xUC3pfg9OGAoTbT+W/Y=
+
+Name: ui/88x43_newLayer_up.png
+SHA1-Digest: 6RfX/72CuEOE84wuCb/D+okGsQA=
+
+Name: com/sun/jimi/core/filters/AspectReplicateScaleFilter.class
+SHA1-Digest: 5JiRl7DGObhVsBvPcC0o6R4fT2Q=
+
+Name: com/sun/jimi/core/encoder/sunraster/PaletteSunRasterEncoder.clas
+ s
+SHA1-Digest: 4SdM4J0QMHa5KaKcL54y+CyB3dg=
+
+Name: pelib/filters/SobelFilter$SobelHorizontalKernel.class
+SHA1-Digest: w/bIg4yy5zfkEZWsAB59TMl9iWU=
+
+Name: com/sun/jimi/core/filters/RGBBlockFilter.class
+SHA1-Digest: YiOMwDg02+U9xUXJZJILaF+5PlA=
+
+Name: com/sun/jimi/core/util/GraphicsUtils.class
+SHA1-Digest: QTJKrZ/tkz60Kh6xYZ3wnJaYVow=
+
+Name: com/sun/jimi/core/raster/JimiRasterImageImporter.class
+SHA1-Digest: hMJf8qVDknOdNQtreEe5z99ghpc=
+
+Name: com/sun/jimi/core/decoder/tiff/Packbits.class
+SHA1-Digest: BvAdkPC4fncEm0c8PqOf6wq0G+k=
+
+Name: dulux/sax/DuluxMyProjectColourLoaderSAX.class
+SHA1-Digest: 4eeJ/zSNt4bEpu8BIsm1htumyf0=
+
+Name: pelibskin/SkinnedLabel.class
+SHA1-Digest: GywQ5lu99IN292nZZFEmrLUTVdk=
+
+Name: ui/128x28_specifier_up.jpg
+SHA1-Digest: hWdLQRua0j1Mbyr3wjFXAProACc=
+
+Name: pelib/lighting/FluorescentLighting.class
+SHA1-Digest: x3hcsePKGbkP4Z1bnPSTZXOu7gE=
+
+Name: com/sun/jimi/core/encoder/png/PNGChunkUtil.class
+SHA1-Digest: pFrcloFqrbt9kIuWXUszAqKjpcg=
+
+Name: premasked/AUS/exterior05.jpg
+SHA1-Digest: epT9r1YQlHQsfApG/8OGlwe4lIY=
+
+Name: premasked/NZ/interior06.jpg
+SHA1-Digest: a5ZedjssQtofY4JrfOHSRKGbFNo=
+
+Name: ui/128x39_redo_deactivated.jpg
+SHA1-Digest: O5yl1h7v3Q3Gk6N5+ebe/Qw2sHk=
+
+Name: pelib/StackInteger.class
+SHA1-Digest: WE7b1gSSMc/hcQDoY/WMjYaVUOE=
+
+Name: ui/deleteArea_up.png
+SHA1-Digest: ZvPzHH7ICxg5rB917ZNTeUWXUT4=
+
+Name: ui/help_zoom.png
+SHA1-Digest: rO87z8jOapGj8MCpUfyZyM7yHAo=
+
+Name: com/sun/jimi/core/component/CropRenderer.class
+SHA1-Digest: qGwoNc1H7JSXP+JXQISwy/EiALE=
+
+Name: org/kobjects/util/SingleEnumeration.class
+SHA1-Digest: F3LEMd4GhGCpDkzX4EiM9j72wZs=
+
+Name: ui/load_selected.png
+SHA1-Digest: lqU9E3hZaHokFk/1OTMkXjVryU8=
+
+Name: com/sun/jimi/core/decoder/png/PNGDecoder.class
+SHA1-Digest: D+2et0avtlrQ9/8Ciki3/Ro2eow=
+
+Name: com/sun/jimi/core/decoder/tiff/Decompressor.class
+SHA1-Digest: WFJ6Iupu9fMlomYvVxCgkSwvSXw=
+
+Name: pelib/print/SVGPath.class
+SHA1-Digest: Rong0uvBD5+YM9u0fhxt0gWhkT4=
+
+Name: com/sun/jimi/core/util/ProgressMonitorSupport.class
+SHA1-Digest: JDJkC2jueDtBBQa4yspB8VL5pas=
+
+Name: com/sun/jimi/core/util/Packbits.class
+SHA1-Digest: VW+/ztMRgtZl7LVoz+56WI67oQ4=
+
+Name: com/sun/jimi/core/filters/Oil.class
+SHA1-Digest: j2TpYsnUCM3BtadlpM2/bvfOazA=
+
+Name: ui/85x22_deleteLayer_deactivated.jpg
+SHA1-Digest: cnWCKP8/2Bl1mr7TGKHjY14QSZA=
+
+Name: ui/88x39_saveImage_deactivated.jpg
+SHA1-Digest: QPXkCLK1zk7yw70p6bdN+KyuKLs=
+
+Name: ui/browns_down.jpg
+SHA1-Digest: ZzHtOmNj9u4QhWjKBzyLAsEENXo=
+
+Name: org/kobjects/pim/PimItem.class
+SHA1-Digest: ogC6j+J/0j83n1d00wZyJZhkbdI=
+
+Name: premasked/AUS/interior02.jpg
+SHA1-Digest: xwZtgGTD5k2NhhzvQvszI2mK/RE=
+
+Name: com/sun/jimi/core/decoder/psd/PSDFileHeader.class
+SHA1-Digest: c5g5N7arn1fd28lhZ1Rcy1B3p8g=
+
+Name: com/sun/jimi/core/options/PNGOptions.class
+SHA1-Digest: o34QFwP9tc8EC/4geCtvosbYnZs=
+
+Name: dulux/sax/DuluxSpecialtyLoaderSAX.class
+SHA1-Digest: Lto87hphz4l4AoLgn4vNLtT7zCg=
+
+Name: ui/40x40_help_up.jpg
+SHA1-Digest: 8eSAZL7fGUV1ebEK6Kyipsbdvfc=
+
+Name: ui/tips_mask_over.png
+SHA1-Digest: ZqsZY1HWVQVAuy+b4/xQE6DLk7I=
+
+Name: pelib/PaintExplorerMaskEvent.class
+SHA1-Digest: KADnbj0jHOpNXiUe0MscvXgQLck=
+
+Name: com/sun/jimi/core/util/lzw/LZWDecompressor.class
+SHA1-Digest: wkhDcdoK1z4bEDA3NTj1hUkZ7ZA=
+
+Name: org/kxml2/kdom/Element.class
+SHA1-Digest: nmE/e9cYe+OSuUjs3md4sj+aDzI=
+
+Name: duluxskin/SkinnedRegion.class
+SHA1-Digest: C5nKKnsAsDih3c7yXiIgrE9eZpM=
+
+Name: ui/colourwall_specialty_garage_over.jpg
+SHA1-Digest: g81/V+a1B39l4DADRHQ9bGyajqA=
+
+Name: com/sun/jimi/core/encoder/sunraster/RLEOutputStream.class
+SHA1-Digest: /HsRdV0quszLA4MUSODKVLDRvrQ=
+
+Name: com/sun/jimi/core/decoder/tga/TGADecoder.class
+SHA1-Digest: Ql377j1lN8EbiKGef0VXtey5r0Y=
+
+Name: com/sun/jimi/core/encoder/jpg/HuffEncode.class
+SHA1-Digest: A3bmQcb4ikyrzZB0XbnFDs3a8Do=
+
+Name: com/sun/jimi/core/decoder/tiff/TIFFieldEnumerator.class
+SHA1-Digest: vxd/F8pPVab9uJpCzSF9anyGsPk=
+
+Name: com/sun/jimi/core/filters/AreaAverageScaleFilter.class
+SHA1-Digest: w/M37bPyYmmIOpfiIKWwPjPLOJg=
+
+Name: ui/128x39_undo_down.jpg
+SHA1-Digest: KsJsxfSVRac93py/LucAS1RC47w=
+
+Name: pelib/EraseCommand.class
+SHA1-Digest: vsEm5yMaJHJb2U/DimCCvo87IHI=
+
+Name: pelib/ExpertPaintManager.class
+SHA1-Digest: N5dVc7WjgjEF5iUOAwSNFSd/YuU=
+
+Name: pelib/filters/PointFilter$1.class
+SHA1-Digest: p+rx/enW1a86++BOMZb4l1AyWfA=
+
+Name: com/sun/jimi/core/options/OptionException.class
+SHA1-Digest: Sy4d2CAjsU9WIr3knsTX7PtJyRM=
+
+Name: com/sun/jimi/core/FormatFactory.class
+SHA1-Digest: eBKGFwVqd66CvvKVq1TRztel7zg=
+
+Name: premasked/AUS/exterior01.jpg
+SHA1-Digest: Y4uuiiF9WsZVjz7MUOetE9CJhgY=
+
+Name: com/sun/jimi/core/component/JimiScrollPane.class
+SHA1-Digest: bWXyRhdhdSeBOEWijBJw7tNlT6s=
+
+Name: pelib/ImageFillMask.class
+SHA1-Digest: 2mR0HDkpQ0rtBPP+j/cXL2tOyL4=
+
+Name: com/sun/jimi/core/util/ByteBuf.class
+SHA1-Digest: XV6JFz9eIvE9t/md4DvO1chtKJI=
+
+Name: duluxskin/ListListener.class
+SHA1-Digest: t83e10Ow3s2JMR0yRNa70bG5rNs=
+
+Name: pelib/ScissorsPath$ScissorsSeedCommand.class
+SHA1-Digest: WX8UWnrINAckWVE9RHSB0RInXGw=
+
+Name: com/sun/jimi/core/JimiProDependencies.class
+SHA1-Digest: Q2bk6VhJd52ZA9SLe+UdypgWDdU=
+
+Name: com/sun/jimi/core/encoder/pcx/PCXEncoder.class
+SHA1-Digest: 2t0u6SWeh7CLJ/1ftJvJl7m4egE=
+
+Name: com/sun/jimi/core/encoder/bmp/BMPEncoderFactory.class
+SHA1-Digest: gM+IOIMlYbThuUhEr9nhEx2DoWY=
+
+Name: com/sun/jimi/core/decoder/sunraster/SunRasterDecoderFactory.clas
+ s
+SHA1-Digest: PcSq3I1HMOECvQDEhhTqLIvFSiY=
+
+Name: duluxskin/SkinnedSlider.class
+SHA1-Digest: xNgK/AgfsJJ1/PwYDPV5iJrP7dk=
+
+Name: pelib/PaintManager.class
+SHA1-Digest: imQbTKGgIU3+tqFhzlbHRNnodFE=
+
+Name: dulux/DuluxMyColour$20.class
+SHA1-Digest: THQjLhvAKckRwV9FHgCLLXDmBzs=
+
+Name: com/sun/jimi/core/util/ErrorJimiImage.class
+SHA1-Digest: MgPeDxh6rW71VmXGGeK6Dk6MGiw=
+
+Name: com/sun/jimi/core/JimiFactoryManager.class
+SHA1-Digest: ARDojx7/uxYenTSs4h/VnAN0i+U=
+
+Name: MyColourApp.icns
+SHA1-Digest: EsQHy9t5viqMBAv5/MnHj0X6RTQ=
+
+Name: com/sun/jimi/core/JimiRasterDecoderSupport.class
+SHA1-Digest: SNSUjD08h0t5tq2xBv/MXbkRjRk=
+
+Name: ui/centre_image_inactive.png
+SHA1-Digest: G5IDZRnS7MbH/+lSiiFZPdmxYvY=
+
+Name: com/sun/jimi/core/JimiProExtension.class
+SHA1-Digest: p7HTSK3DchCd+lER7ZUlRR+Ebb8=
+
+Name: ui/40x40_help_down.jpg
+SHA1-Digest: tbIxVaiIi31upst6jMuw1tsYzBE=
+
+Name: com/sun/jimi/core/decoder/tiff/TIFTags.class
+SHA1-Digest: j/4yMplBbJI4dAgckoe06/OjW1U=
+
+Name: com/sun/jimi/core/SingleImageSeriesDecodingController.class
+SHA1-Digest: L5QiU8I/B1OborRmNWaVFPHYjx8=
+
+Name: com/sun/jimi/core/encoder/pcx/PCXEncoderFactory.class
+SHA1-Digest: F+F7CAj9WW5A+yq8ArH5XSbjYkE=
+
+Name: org/kxml2/wap/wml/Wml.class
+SHA1-Digest: SugUCfVPjmjVVeL4zrKftK1RaYc=
+
+Name: com/sun/jimi/core/component/AspectScaler.class
+SHA1-Digest: T2Ez9edsY4yli0AK14XfzOvI+Jw=
+
+Name: pelib/filters/TriangulationFilter$NearestPointFinder.class
+SHA1-Digest: 4AnRLT5V/Uwu1wPXjk3YTtAS6iU=
+
+Name: premasked/NZ/exterior03.jpg
+SHA1-Digest: l1SUCLHCWVJ5AvwCR7FTuuscGV0=
+
+Name: ui/traditionals_down.jpg
+SHA1-Digest: AVPFuIJWl4wxKGXmP4n94byUOgc=
+
+Name: com/sun/jimi/core/encoder/jpg/JPGEncoderFactory.class
+SHA1-Digest: EjqSbuDeKOkcVe0JDfi1YVkWxes=
+
+Name: ui/specialties_down.jpg
+SHA1-Digest: u9n9kzOomDbtGZLSrckrKxw2sos=
+
+Name: com/sun/jimi/core/filters/Shrink.class
+SHA1-Digest: DutYKWzsOOCimSW849Ri+6aU+Vg=
+
+Name: ui/ok_active.jpg
+SHA1-Digest: g8+AKrY95zI17zUeOQzJ5cwMLfY=
+
+Name: org/ksoap2/serialization/SoapObject.class
+SHA1-Digest: Ib1EVJ/8s7qF28WlNcv/2tbibWI=
+
+Name: premasked/NZ/interior05.jpg
+SHA1-Digest: 5ENBETmwEjLS1oCmhOVTgGJlc0c=
+
+Name: com/sun/jimi/core/encoder/jpg/Fwddct.class
+SHA1-Digest: m/duTK6BW3cU2HkgZcRDJOcI94Q=
+
+Name: pelib/MaskItemIDCommand.class
+SHA1-Digest: nhIOK02eJhQSJCHcTvjiFvxzyq8=
+
+Name: pelibskin/ListListener.class
+SHA1-Digest: WeZ8nU76rU1cgtmC2YFLgZwWSH8=
+
+Name: com/sun/jimi/core/encoder/jpg/CompressInfo.class
+SHA1-Digest: BXpgNuPF5v4PSVXFlODTHgX7/vU=
+
+Name: JavaApplicationStub
+SHA1-Digest: wkh/lOaoaSHq/jRkoxar6iv2EG4=
+
+Name: ui/backtoimage_up.jpg
+SHA1-Digest: kYt5HVFmPwpdPIJsnSMt6Yc+Hds=
+
+Name: com/sun/jimi/core/util/lzw/BitInput.class
+SHA1-Digest: 85u/ABkOt4BUNbOFVPzfQ5f9Nm4=
+
+Name: com/sun/jimi/core/component/AbstractRenderer$ResizeWatcher.class
+SHA1-Digest: 5vDfxfe5ipH8YTGPxlBipiK4LDc=
+
+Name: com/sun/jimi/core/filters/Smooth.class
+SHA1-Digest: Mxu09iOiqROEacOnI06m/RSh5p4=
+
+Name: com/sun/jimi/core/JimiRasterImageEnumeration.class
+SHA1-Digest: qHsvCZ0PsHqpmEhrCTgEy7TljvI=
+
+Name: ui/88x28_change_selected.jpg
+SHA1-Digest: XHji0TuRa47PiyEA7kaXCzJxx0I=
+
+Name: pelib/PaintExplorerListener.class
+SHA1-Digest: OHQzMrp2o7aRJU+c+3nPh6ZT854=
+
+Name: ui/return_down.png
+SHA1-Digest: gBKFuBOJ/53KBy9mvZY4rVvL2jE=
+
+Name: pelib/CommandHistory.class
+SHA1-Digest: TgGO4Uv0gGFY7Unb623+7u/PDuw=
+
+Name: ui/thumbsnext_up.png
+SHA1-Digest: fj3Ua+uOtNs0IWEW9CACWmLS+VU=
+
+Name: com/sun/jimi/core/encoder/ico/ICOEncoder.class
+SHA1-Digest: TpGEbrCdQwnkaWEyGzMC0pFed00=
+
+Name: dulux/DuluxXMLReader.class
+SHA1-Digest: ONlPehfw3yEvUzFGrk+xyyV0eG8=
+
+Name: ui/128x39_undo_selected.jpg
+SHA1-Digest: C6/XyeDa7VsL+2CvzWJV81oU17A=
+
+Name: pelib/scissors/Dijkstra2Scissor.class
+SHA1-Digest: s6iNRrB0/gtWlRLMmreiChxKl4Q=
+
+Name: ui/colourwall_specialty_river_over.jpg
+SHA1-Digest: YBxciZ9Qu4ToVzzoM/kYEe6ejfU=
+
+Name: com/sun/jimi/core/util/FreeFormat.class
+SHA1-Digest: rWCdgQV4VfO+tXooYzzv++REVq4=
+
+Name: com/sun/jimi/core/JimiReader.class
+SHA1-Digest: x8XgXoNM1hF3mP947M/2r7E5yMQ=
+
+Name: com/sun/jimi/core/VMMControl.class
+SHA1-Digest: 4SFOJBGzzmkcvawppYroBs5ZV08=
+
+Name: com/sun/jimi/core/JimiException.class
+SHA1-Digest: y5uSHaGxUtYPQRldWN7o82bWnxE=
+
+Name: ui/yellows_down.jpg
+SHA1-Digest: zmYmRksmnDBAKznBkPyTyZRQ6jM=
+
+Name: org/ksoap2/serialization/MarshalFloat.class
+SHA1-Digest: SJlFu5kJ3uqLREbx9W0tVDmIFsQ=
+
+Name: pelib/filters/BoxFilter.class
+SHA1-Digest: azbFY7UX2gpG/BiIMn8g/kN5+Bg=
+
+Name: pelib/PaintCommand.class
+SHA1-Digest: Cy8/o28Fze430YLs7ttaqmAsTjE=
+
+Name: duluxskin/SkinnedImage.class
+SHA1-Digest: Jy4d5/350JrZPIrMttZnKtBci9E=
+
+Name: duluxskin/SkinnedLabel.class
+SHA1-Digest: rPzrCD+h3zXs3PRcNO/eZJXqwWs=
+
+Name: com/sun/jimi/core/encoder/bmp/BMP8Encoder.class
+SHA1-Digest: cgWZuUbHVagfCfwGeV/iulF86Gg=
+
+Name: com/sun/jimi/core/encoder/tga/TGAEncoderIfc.class
+SHA1-Digest: IgiaQJyEY1ev017vWF2AVsYdcUM=
+
+Name: pelib/VectorInteger.class
+SHA1-Digest: 4VxOinwrVVh6+o5E2797b0A43Ow=
+
+Name: org/ksoap2/transport/ServiceConnectionSE.class
+SHA1-Digest: pxCzz7i9DqwmTgEoJDuisk2WX6Q=
+
+Name: ui/error.jpg
+SHA1-Digest: AHE2ikWb5/m8xN/LNDguucplCrQ=
+
+Name: com/sun/jimi/core/JimiMultiImageRasterDecoder.class
+SHA1-Digest: etsBoFkyBu1cx+GpNuKtzJgBBzg=
+
+Name: ui/128x28_specifier_down.jpg
+SHA1-Digest: UOzGM3yuLe/ExFO3BNK7JxKZWQQ=
+
+Name: pelibskin/SkinnedPlaceholder.class
+SHA1-Digest: 8kBS1Yx0FDcjTfEjhzX5VGaPOJI=
+
+Name: ui/88x39_saveImage_down.jpg
+SHA1-Digest: rxTvugjyT7Pgw/e/gOM7WrUabuY=
+
+Name: ui/88x39_zoomIn_deactivated.jpg
+SHA1-Digest: BaRTh98mhEeMDM6aJSKbjeLlriU=
+
+Name: Test.xml
+SHA1-Digest: yTg8rCacK2foU5ss1ZxP0i3uSb8=
+
+Name: dulux/DuluxMyColour$8.class
+SHA1-Digest: KKcb8iX7MqI9v5Jr2j52eCrm0o4=
+
+Name: com/sun/jimi/core/options/SunRasterOptions.class
+SHA1-Digest: wrCsnzWV/PzfqaZNtZOyM5xkBfE=
+
+Name: pelib/FloodFillPaintCommand.class
+SHA1-Digest: ErU7k4aP0AaLnyTwAPy/neBuGPk=
+
+Name: dulux/DuluxPaletteView.class
+SHA1-Digest: E+5YzYHQosNPRsQd6Ijy4WZ8nfY=
+
+Name: duluxskin/SkinnedList.class
+SHA1-Digest: AZSeEJLt9TtK+AXAYJtxNRvCdaA=
+
+Name: com/sun/jimi/util/RandomAccessStorage.class
+SHA1-Digest: d0fLBKSSQKUhN1JN0W4JCJMt8tM=
+
+Name: com/sun/jimi/core/component/FitWidthRenderer$ResizeListener.clas
+ s
+SHA1-Digest: UbVATIgFaNXeN+JeOjva4AXSvAk=
+
+Name: com/sun/jimi/core/raster/MemoryBitRasterImage.class
+SHA1-Digest: 2C/PkYn/TURhLfBtGv1N3khTjTA=
+
+Name: pelib/PaintExplorer$1.class
+SHA1-Digest: f8Nf6jVfxbJesEDI0FBW1Dkp+qc=
+
+Name: ui/help_colourchips.png
+SHA1-Digest: 0iHOlrYlveLgRC08eG2NbJ/Az1s=
+
+Name: dulux_logo.jpg
+SHA1-Digest: gLBkRal6esHDucy8jUK77VdUERY=
+
+Name: org/kobjects/io/LookAheadReader.class
+SHA1-Digest: BWsPZqaoY9HdWk4YqCyA+GvaYSA=
+
+Name: org/kobjects/util/Util.class
+SHA1-Digest: Jm/WL/QtUJrvqasJZtAOKtpRMUA=
+
+Name: ui/cancel_down.png
+SHA1-Digest: lUUpGNmCpqePxAWxrgIdx721WhM=
+
+Name: com/sun/jimi/core/component/FitWidthRenderer$ResizeWatcher.class
+SHA1-Digest: sLx5RioArwyWJfPUGHYLYdQwapo=
+
+Name: org/kxml2/wap/WbxmlSerializer.class
+SHA1-Digest: 78UsfnrqbqWEWAorXdBfIyvcINM=
+
+Name: org/xmlpull/v1/XmlPullParserFactory.class
+SHA1-Digest: q6DYN9BkjmOoNUMC1VDt8SJKrpA=
+
+Name: ui/loadFromFile_up.png
+SHA1-Digest: HKjBgTwhTY069KwAk+pBBajo8l4=
+
+Name: ui/88x28_change_down.jpg
+SHA1-Digest: 3Po0WYpIWfVPfPA1OCHN/bFX/cw=
+
+Name: com/sun/jimi/core/decoder/ico/ICODecoder.class
+SHA1-Digest: ZDoGbRLIQE2Svb5t2N0rqRKBXr8=
+
+Name: dulux/DuluxMyColour$16.class
+SHA1-Digest: qM5NE9uUaCLf2Ut4xkdfcRmKTR4=
+
+Name: pelib/StateCommand.class
+SHA1-Digest: 8xw9yIqQGk7kN0Uy0ZyCqdhD9VI=
+
+Name: pelib/Command.class
+SHA1-Digest: Emw8DrwJ2pllZrK/VEEqH3a/8cs=
+
+Name: com/sun/jimi/core/JimiControl.class
+SHA1-Digest: I0lZMUw/9QYT726D4vIrKMula8I=
+
+Name: com/sun/jimi/core/OptionsObject.class
+SHA1-Digest: ERS4jfPdD8R0+Ab3KizDnQCDjzk=
+
+Name: pelib/MaskPositionIdCommand.class
+SHA1-Digest: frB89jZkCXxDJFFNZnlOBwpYcZE=
+
+Name: com/sun/jimi/core/decoder/ico/IconImage.class
+SHA1-Digest: E1gVRj3plOxlhG+HydTindNX1ug=
+
+Name: com/sun/jimi/core/filters/Shear.class
+SHA1-Digest: p4VRnUDgwGQHlepwgGn3pXJI8iY=
+
+Name: premasked/NZ/interior03.jpg
+SHA1-Digest: fOqWVc5atw9phAf6mE/CdoVs/78=
+
+Name: com/sun/jimi/core/filters/ScaleCopy.class
+SHA1-Digest: TiNxDVZrNnQ7E6vQGI3wOD0ps1g=
+
+Name: duluxskin/SkinnedScrollbar.class
+SHA1-Digest: 5uTcBs8lxTKQjpbFLh+J/ptM6Bs=
+
+Name: com/sun/jimi/core/decoder/pcx/PCXDecoder.class
+SHA1-Digest: BVpkzCQYsXLuoMCV97ZPCfPSVAo=
+
+Name: ui/neutrals_down.jpg
+SHA1-Digest: meOn5xHszfocvWWls3XfalzsJ90=
+
+Name: com/sun/jimi/core/decoder/pcx/PCXImage.class
+SHA1-Digest: 6/u41BgBfGfyk7m2sk9gdYTEMxU=
+
+Name: ui/88x39_saveProject_deactivated.jpg
+SHA1-Digest: LwOE8JU0TbL6tSd1lcsto/O2xGw=
+
+Name: pelib/filters/GaussianFilter$1.class
+SHA1-Digest: FNJAR3UNeop1Xn+iqlJwnsK83y8=
+
+Name: com/sun/jimi/core/options/FormatOption.class
+SHA1-Digest: iY9ICdGBvPJ7Uhhten2H5bT2wQ8=
+
+Name: dulux/DuluxPaletteListener.class
+SHA1-Digest: 2UHETECzh2FrGYVKc97yoeo6Oj8=
+
+Name: ui/colourwall_specialty_metallic_up.jpg
+SHA1-Digest: THBpNOch8ml2Xl6l71kvSFJrGkM=
+
+Name: ui/backgroundColourWall_NZ.jpg
+SHA1-Digest: 9aNphocp8ave0RZX0508JFDRGfg=
+
+Name: dulux/DuluxMyColour$23.class
+SHA1-Digest: Wo4fpAW1RydkH+yJ9jpX7B9v+vc=
+
+Name: ui/specialties_selected.jpg
+SHA1-Digest: TTmSGtiCSx2Y0WcM1j5NoYjaHaM=
+
+Name: ui/layout_AUS.xml
+SHA1-Digest: NgL4Sjei5Ji9maRgjvr7aTuy/BM=
+
+Name: pelib/ImageByte.class
+SHA1-Digest: rRZ4BCPQe99naxzRJ0aTVqYwWIw=
+
+Name: pelib/ScissorsCommand.class
+SHA1-Digest: e9Hf3Spv6McoAA/x568uS0FbTcQ=
+
+Name: com/sun/jimi/core/raster/VMemIntRasterImage.class
+SHA1-Digest: mF7QjMMCKoIC3V1q8F/hM1xGZCI=
+
+Name: dulux/DuluxMyColour$MessageBox$1.class
+SHA1-Digest: ka1WtYIyLdM7uTJbslXHO++mDtU=
+
+Name: org/kobjects/util/Strings.class
+SHA1-Digest: eNVCx9TtV1FIz99/1xUIZZB3TYY=
+
+Name: com/sun/jimi/util/FileRandomAccessStorage$OutputStreamWrapper.cl
+ ass
+SHA1-Digest: OUNPosew1CS1d2KvORKSF6gU6aE=
+
+Name: com/sun/jimi/core/decoder/psd/PSDImageResources.class
+SHA1-Digest: E43DV397gRNo5JCqDJLex0JfOB4=
+
+Name: ui/yes_active.jpg
+SHA1-Digest: /QP3MKcfBw5m+B+1jdHj7EcUt3k=
+
+Name: pelib/BlurManager.class
+SHA1-Digest: LWi49yKfiCekrxu1LvrWmL/DTe4=
+
+Name: com/sun/jimi/core/JimiLicenseInformation.class
+SHA1-Digest: uY8I7WckCveE3c2BiXo2THLoVbY=
+
+Name: dulux/DuluxWebServiceReader.class
+SHA1-Digest: YZmjbUhJdeGLz3fjY2bGkGX5J1Y=
+
+Name: pelib/filters/BoxFilter$1.class
+SHA1-Digest: KpqR6cQv/Wz9MPg/p0km+Z7Iio8=
+
+Name: ui/browns_up.jpg
+SHA1-Digest: qLPH2ZNRB8xdrsHNXYSTJm9DBjs=
+
+Name: com/sun/jimi/core/filters/Enlarge.class
+SHA1-Digest: lrhiaagrI8EEDZ0o88PYb2CmWf0=
+
+Name: com/sun/jimi/core/raster/ChanneledIntRasterImage.class
+SHA1-Digest: RA5ogeVULZ/O+X7uVPT3DKJn8pI=
+
+Name: ui/128x28_change_up.jpg
+SHA1-Digest: t8Hnj9WwypY43LgN2rSm6KoQmOE=
+
+Name: ui/blues_down.jpg
+SHA1-Digest: l7G0Xj2uruy+LXOKEfyFewjumOI=
+
+Name: pelib/PaintExplorer$Decomposition.class
+SHA1-Digest: 5dcVLdrBrhYibYCAu/rG0MwEa8w=
+
+Name: com/sun/jimi/core/util/JimiUtil.class
+SHA1-Digest: LKhqdURqAz0rVHel++uIHJoc088=
+
+Name: dulux/DuluxMyColour$18.class
+SHA1-Digest: VqxH+6K9UX+8vS4kmucIysDB47s=
+
+Name: org/ksoap2/serialization/MarshalDate.class
+SHA1-Digest: AIy+xuCQ6PqZ6VbUdF3vZJSmQJA=
+
+Name: ui/thumbnails.png
+SHA1-Digest: AccsprvgekojendedzT1HAz7bas=
+
+Name: ui/128x28_coloursOfNZ_deactivated.jpg
+SHA1-Digest: q3aMHu1YyuXjnc0RLBCoGwzn0lE=
+
+Name: dulux/DuluxMyColour$21.class
+SHA1-Digest: /rSywTCYV9RSu8DB7qWcZABst2M=
+
+Name: pelib/BeginPaintCommand.class
+SHA1-Digest: OYqGXusSLNX0FSR47ZkC1dTXa3Y=
+
+Name: pelibskin/Layer.class
+SHA1-Digest: vVjM3p3fxt3J7pB/7wrkcjn66EA=
+
+Name: ui/faq_down.png
+SHA1-Digest: 2asuR/5Imq0BVQSfXNYys8iXYkA=
+
+Name: ui/colourwall_specialty_suede_over.jpg
+SHA1-Digest: dR1Lr3UxVWn2A2AQO6+CFnXtWDE=
+
+Name: duluxskin/Layer.class
+SHA1-Digest: IHMJlBS8zy0U55T2vGjF3nV58pQ=
+
+Name: dulux/DuluxMyColour$27.class
+SHA1-Digest: pgsb0swgw28VIfZj+bA2KBCereQ=
+
+Name: com/sun/jimi/core/encoder/pict/PICTEncoder.class
+SHA1-Digest: C3Lwm3nXkImCAdRnEuej1xzU2Lw=
+
+Name: ui/greens_up.jpg
+SHA1-Digest: 9/UtnoFt0sB5tQkbFl4lzAbp7fI=
+
+Name: ui/blues_up.jpg
+SHA1-Digest: Yb4yRiwYMG8ew8aM8C2rKN8booQ=
+
+Name: pelib/StraightLineEdge.class
+SHA1-Digest: skI6g4zjZOCUWP2CjddeCMjtWMs=
+
+Name: com/sun/jimi/core/util/ColorReducer.class
+SHA1-Digest: bBBngxb/bt4hpYt4FLf+HP0WQx4=
+
+Name: com/sun/jimi/core/options/FormatOptionSet.class
+SHA1-Digest: 2GMoKUyYFYQG7wr5N4sLSZOU+CU=
+
+Name: com/sun/jimi/core/filters/Gray.class
+SHA1-Digest: Mb63hzRvO7Xm+zjlOqnNTfY/MmI=
+
+Name: pelib/scissors/NodePriorityQueue.class
+SHA1-Digest: krh16ctcBjc1nxHjYxoma6Q1U2s=
+
+Name: ui/colourwall_specialty_colorbond_up.jpg
+SHA1-Digest: 19beMX+zyAf6QvlS7G9DMzjwx8A=
+
+Name: dulux/DuluxMyColour$19.class
+SHA1-Digest: 4dbTP882XW5UZQNfESht9GrALwE=
+
+Name: com/sun/jimi/core/ImageAccessException.class
+SHA1-Digest: Ul7iEudjuVL1LKxyFkV7v58tIGc=
+
+Name: premasked/AUS/exterior07.jpg
+SHA1-Digest: Xmad5hhUHoDnnMjuid7llaNoMy8=
+
+Name: ui/oranges_down.jpg
+SHA1-Digest: MQJIUeS39CIWersSNdFxfrInCpE=
+
+Name: com/sun/jimi/core/raster/MemoryByteRasterImage.class
+SHA1-Digest: 2Ukbbw4D4NuDyRitNTTuRROJM8o=
+
+Name: com/sun/jimi/core/component/SmartScrollingRenderer.class
+SHA1-Digest: 2CgBIYW8jGp4ePHjtDWG7K1lHS0=
+
+Name: ui/deleteArea_down.png
+SHA1-Digest: +4qgyV1m+3z7tqY1dpZpOrkd7pY=
+
+Name: com/sun/jimi/core/raster/LongRasterImage.class
+SHA1-Digest: qw3GfmshraAg+F2r30xbzzK72Ug=
+
+Name: ui/colourwall_specialty_colorbond_over.jpg
+SHA1-Digest: /tS7qx0R2/eeAAl66oJR3tJfAxU=
+
+Name: com/sun/jimi/core/decoder/tiff/TIFDecoder.class
+SHA1-Digest: 3Ut+r+VSlIY5KVRA8SNKW7HGhjU=
+
+Name: com/sun/jimi/core/JimiDecoderFactory.class
+SHA1-Digest: VplGJBtfGnq0cRqyUa1qZxnSyEQ=
+
+Name: com/sun/jimi/core/raster/MemoryIntRasterImage.class
+SHA1-Digest: wcKp51AVHgHTIvtrc+p8o8tz/uo=
+
+Name: dulux/DuluxPaintView.class
+SHA1-Digest: MQHCmENtbVm4sNjoyqzt7avvGsg=
+
+Name: ui/purples_down.jpg
+SHA1-Digest: qOOG1+T/rqfME8JuRMumnXUBzPA=
+
+Name: premasked/AUS/interior10.jpg
+SHA1-Digest: imkj5cXuJsxnLeOz+us5FK5JoWk=
+
+Name: ui/tips_eraser_over.png
+SHA1-Digest: M6XSh7enxhm1oMzlFIHU7rN51s0=
+
+Name: pelib/lighting/IncandescentLighting.class
+SHA1-Digest: MjOQzHaIWok3GBa5Hln8hD+vv54=
+
+Name: ui/thumbsprevious_up.png
+SHA1-Digest: spoUShajOXC5zwXudbDLf/n4mlU=
+
+Name: pelibskin/SkinnedImage.class
+SHA1-Digest: UssSQRBcNLZCC05dKKQirSEwF2o=
+
+Name: org/ksoap2/serialization/KvmSerializable.class
+SHA1-Digest: p7TvUFnEbLhRR5tQMYH3Loz1YIs=
+
+Name: ui/help_right.png
+SHA1-Digest: 0fVVOVuZSd6TKleCLFLU9YUftNA=
+
+Name: dulux/DuluxMyColour$3.class
+SHA1-Digest: OspkvzSsHGjCA3SrrGXZRbibjhM=
+
+Name: dulux/LiteralArrayVector.class
+SHA1-Digest: y7Jze3N2704NHVKOlC+sOM19jDs=
+
+Name: org/kxml2/kdom/Node.class
+SHA1-Digest: 0ARVgG09mZyAizJaXGOxGFgG7b0=
+
+Name: com/sun/jimi/core/encoder/sunraster/SpecificEncoder.class
+SHA1-Digest: VFdrPXSuZbdeRGMyeRbY2XOe6s4=
+
+Name: com/sun/jimi/core/util/QueuedImageProducerProxy.class
+SHA1-Digest: APDTpwDEL6fuJ2EDfQc/Zqt7tt0=
+
+Name: pelibskin/SkinnedListItem.class
+SHA1-Digest: EqXVca2ixMor5TFUGAs7BNeYci4=
+
+Name: com/sun/jimi/util/FileRandomAccessStorage$InputStreamWrapper.cla
+ ss
+SHA1-Digest: oNFo5VXkx34kVcTKBPoJ3COhKUI=
+
+Name: com/sun/jimi/core/component/FitWidthRenderer.class
+SHA1-Digest: TyTEERS0akcpQOUMLDOgMAiSok4=
+
+Name: pelib/PaintExplorerScissorsEvent.class
+SHA1-Digest: +V9HCgLPGl2mN+dw+sd+hZAo6lo=
+
+Name: premasked/AUS/exterior03.jpg
+SHA1-Digest: N+EvzJer/Rg1iuXsqnwQCsqFnCw=
+
+Name: com/sun/jimi/core/JimiEncoderFactory.class
+SHA1-Digest: hBGhaFDobLZ9We0V8MIsTJh6bJE=
+
+Name: com/sun/jimi/core/decoder/tiff/IFD.class
+SHA1-Digest: bSDAUgHDI+vsM/r8SCNYkA3OU+8=
+
+Name: duluxskin/LabelEvent.class
+SHA1-Digest: CbemUCxhGR7OgJWksy5Kaw9m/Ew=
+
+Name: ui/slideup_down.jpg
+SHA1-Digest: wYCfV3ghCmf0VobQkMWw2Kupj2Y=
+
+Name: dulux/DuluxColour.class
+SHA1-Digest: fDjvcFriFwzjZ+hfAM1DkAQuuuQ=
+
+Name: pelib/scissors/Dijkstra1Scissor.class
+SHA1-Digest: z4XQxGFgYdYI9eighXTeEK5Y6G4=
+
+Name: pelib/ImageColour.class
+SHA1-Digest: 2DI5zO+0W4AS5q38fXfZ3L69/9E=
+
+Name: premasked/NZ/exterior05.jpg
+SHA1-Digest: Tz4bNTz/PLT5wBpCjJkBFPCwZxY=
+
+Name: com/sun/jimi/core/ImageSeriesDecodingController.class
+SHA1-Digest: etzf3CN0FK7pTgR65cEjKjxtMDc=
+
+Name: dulux/DuluxMyColour$12.class
+SHA1-Digest: o4oi5LACJrMkmf+NsiXgSuJdYQs=
+
+Name: com/sun/jimi/core/raster/JimiRasterImage.class
+SHA1-Digest: Wk7HNueKYEee6epTVsswgRFuZds=
+
+Name: com/sun/jimi/core/decoder/gif/GIFDecoderFactory.class
+SHA1-Digest: k1VUOMpsXgNQabqiVfV5auFhSNg=
+
+Name: dulux/sax/DuluxRenderColourLoaderSAX.class
+SHA1-Digest: Whmpzkwnp0DVgprJaCP5sjFB0bo=
+
+Name: pelib/print/PrintContentProvider.class
+SHA1-Digest: hWpimFzcBTCrfyRUY2m+KiAo6Cc=
+
+Name: ui/tips_minimized_up.png
+SHA1-Digest: S1a3lmwDQ/vwtfwptiu/nVUIphA=
+
+Name: pelib/filters/MedianFilter.class
+SHA1-Digest: bwp46065XcBB0qHpyOCxzXk1wrI=
+
+Name: pelib/MaskBlurCommand.class
+SHA1-Digest: sClZ7gEqvtfCTTgpj6tdQQnRaFo=
+
+Name: com/sun/jimi/core/decoder/tiff/IFDDecode.class
+SHA1-Digest: ZQM8yaP/+A26v1+u+wwfssscARs=
+
+Name: ui/loadfrompremasked_up.png
+SHA1-Digest: 9+h88MFxi56VOD8e7l8n1rIBM7Y=
+
+Name: com/sun/jimi/core/encoder/sunraster/SunRasterEncoderFactory.clas
+ s
+SHA1-Digest: BaesGp1NTLRw2NH/bjq+se6ui+g=
+
+Name: com/sun/jimi/core/encoder/psd/PSDFileHeader.class
+SHA1-Digest: n2iqUDQmhZWAUYysZSirkFwp3+M=
+
+Name: premasked/NZ/exterior06.jpg
+SHA1-Digest: luBf7qwcpDThX0sdXWGddtHOI8w=
+
+Name: dulux/DuluxMyColour$6.class
+SHA1-Digest: ZKmASuh907l5pVhaSd3Bx/hBBXo=
+
+Name: org/ksoap2/transport/Transport.class
+SHA1-Digest: Xrh5t0aCwoHQyUXGBGf7OVisuxQ=
+
+Name: com/sun/jimi/core/component/SmartScrollingRenderer$ResizeListene
+ r.class
+SHA1-Digest: BhKKwR1TlAHrLEgjPsLx9odJiI8=
+
+Name: com/sun/jimi/core/JimiReader$StreamCloseCommand.class
+SHA1-Digest: tHGg8i7bGFdK3K7s9I/2j5g1PwA=
+
+Name: dulux/DuluxLogger.class
+SHA1-Digest: LmXL107WT0ipueFza0eYTtv5NV8=
+
+Name: com/sun/jimi/core/MImageSeriesDecodingController.class
+SHA1-Digest: U9gcIRrTYJbwNOf7EGSA0vgA2Lo=
+
+Name: com/sun/jimi/core/filters/EdgeDetect.class
+SHA1-Digest: 605SDbLED/1/kNNWmO1vzkLK4lE=
+
+Name: com/sun/jimi/core/decoder/bmp/BMPColorMap.class
+SHA1-Digest: 0hrNy1dNrg+oir6VHUAMSo6LxXU=
+
+Name: com/sun/jimi/core/component/ScrollRenderer.class
+SHA1-Digest: JJusWATeOi0yIPOk23spjBnLqxc=
+
+Name: dulux/DuluxMyColour$7.class
+SHA1-Digest: mdYFRQ/JOy+U29ghvhKrsNIA7co=
+
+Name: duluxskin/SkinnedListSwatchItem.class
+SHA1-Digest: k+XrGPPU5/RhW9cIR4mfdhqmN9E=
+
+Name: ui/128x28_coloursOfNZ_up.jpg
+SHA1-Digest: cjudPPWlS/dvVQBZL0cibi0zC4s=
+
+Name: com/sun/jimi/core/encoder/pcx/RLEOutputStreamForPCX.class
+SHA1-Digest: pz+XL8uadLAl0bqP8J8KtH42bt0=
+
+Name: pelib/ImageLabelled.class
+SHA1-Digest: 0AjzpITXFLf6/sMVxSUatMjGw7A=
+
+Name: ui/85x22_deleteLayer_up.jpg
+SHA1-Digest: 4Dtcn0dPW5WSa+WSkLl7aQ1eTjc=
+
+Name: com/sun/jimi/core/decoder/png/PNGReader.class
+SHA1-Digest: g25A2Wt+jD6aTl5acyS1YVB24Bk=
+
+Name: com/sun/jimi/core/decoder/tiff/TIFField.class
+SHA1-Digest: D9bcEZn9QHLGghQ6RChTVdBy4Us=
+
+Name: com/sun/jimi/util/FileRandomAccessStorage.class
+SHA1-Digest: MQP1kTXXyu1qeIeUuNWUv0rtE60=
+
+Name: com/sun/jimi/core/decoder/tiff/TIFDecoderFactory.class
+SHA1-Digest: VDPw3F8Mj63KdiQXFfPEGf04ZXQ=
+
+Name: ui/88x43_newLayer_selected.png
+SHA1-Digest: ORYxSqCH5YYCCKUtua4LO56Xt3o=
+
+Name: com/sun/jimi/core/component/FitToWidthPanel.class
+SHA1-Digest: TAjsH0/0Xj9oXTLorEN4xdWsjyw=
+
+Name: pelib/ui/PrintPreviewDialog.class
+SHA1-Digest: aMLGo6KruUGC2JhbtcB8t1fa8y0=
+
+Name: ui/HelveNEg.pfm
+SHA1-Digest: ZmPhX9kp9nS+CB8yhiqVWKJ52j4=
+
+Name: com/sun/jimi/core/compat/AdaptiveRasterImage.class
+SHA1-Digest: mk0tgrIvKUkDMmTk4qd2xdS7tMk=
+
+Name: dulux/DuluxPrintContentProvider.class
+SHA1-Digest: 1QjpnMOO8T6dfDCF+Ff/7hxPvlc=
+
+Name: org/kobjects/crypt/Crypt.class
+SHA1-Digest: /GgX/Qd8Z89wE20TL2lwjVVOG4o=
+
+Name: ui/help_mask.png
+SHA1-Digest: ouANgVtAhno0oUDYNs3YwMtHHS0=
+
+Name: ui/128x39_return_down.jpg
+SHA1-Digest: +ASgC5B4FBopWkDoXtN+aYERqck=
+
+Name: ui/oranges_up.jpg
+SHA1-Digest: Q7B0VuycP65k4EwGxcv5bE/pcQQ=
+
+Name: pelib/ui/ColourPaletteDialog.class
+SHA1-Digest: 78agiG8zNa0/AE1HBYjs3kexCVQ=
+
+Name: ui/HelveNEg.pfb
+SHA1-Digest: jud0gLHtWSXB4s42DwPPfgQkvFo=
+
+Name: pelib/MaskColourCommand.class
+SHA1-Digest: N/qA5WsnqByKfAniH8IfXpvcOy0=
+
+Name: pelib/Statistics.class
+SHA1-Digest: +HbR9dgN3WNy6AB5T6G5YKefEgE=
+
+Name: com/sun/jimi/core/util/P.class
+SHA1-Digest: YocDwc0ciQ1ZPO0OhNM/aixL6Gw=
+
+Name: com/sun/jimi/core/JimiSingleImageRasterDecoder.class
+SHA1-Digest: x7nl9YUSQYsSkmBhv5J+isjnnmw=
+
+Name: ui/128x39_redo_selected.jpg
+SHA1-Digest: LaNR9tc/g1UfLv7MsoOY7+3BH/o=
+
+Name: ui/128x39_undo_up.jpg
+SHA1-Digest: /A/o5i9uzUWrWpLVsUjmQ1G0s1U=
+
+Name: com/sun/jimi/core/encoder/png/png_chunk_trns.class
+SHA1-Digest: afbB3wnkM1rV+8hWNIDbQ0rs6Vo=
+
+Name: org/ksoap2/serialization/PropertyInfo.class
+SHA1-Digest: 3/jYuGCu42fCmCVCo1+Tmn6siO8=
+
+Name: com/sun/jimi/core/util/JimiImageColorReducer.class
+SHA1-Digest: RF/Yfifc60PYSnAHJUapAGanbsI=
+
+Name: ui/slideup_up.jpg
+SHA1-Digest: aHCbkf0KfBgnffKZTJwFrRlXmJQ=
+
+Name: ui/88x39_zoomIn_selected.jpg
+SHA1-Digest: DIHZ2NHubMV1zBpgvJv963m8s9U=
+
+Name: pelib/ui/WrappingLabel.class
+SHA1-Digest: h9CYdQFash9EgKTGejbIVUR8wBQ=
+
+Name: dulux/DuluxMyProjectPaletteView$1.class
+SHA1-Digest: j/ZdO+noLqucmErsfLBfHfXQ6DU=
+
+Name: com/sun/jimi/core/raster/OneshotByteRasterImage.class
+SHA1-Digest: 47hxKgSNUJJf2dXS/hLcp0Dizso=
+
+Name: pelibskin/SkinnedList.class
+SHA1-Digest: ofl1ddgd23FsXhqSYZDlEAUQUS0=
+
+Name: premasked/AUS/exterior06.jpg
+SHA1-Digest: luBf7qwcpDThX0sdXWGddtHOI8w=
+
+Name: org/kobjects/rss/RssReader.class
+SHA1-Digest: s03/17LvzKP+2ZrWyXVtsQAvIdg=
+
+Name: org/kxml2/wap/Wbxml.class
+SHA1-Digest: lIT0ZlGZJHdAGfvH8lY/moTmKzs=
+
+Name: ui/88x43_newLayer_deactivated.png
+SHA1-Digest: TY0pdnsB7nfzaQI4YdAD1tnqZ8g=
+
+Name: com/sun/jimi/core/MutableJimiImage.class
+SHA1-Digest: CmrEqPVzL5eVDuddTuHBNOn5IO4=
+
+Name: org/ksoap2/SoapFault.class
+SHA1-Digest: SOwKO+DYZQdCiJzjXdJMmpbo7vE=
+
+Name: com/sun/jimi/core/decoder/pict/PICTPixmap.class
+SHA1-Digest: RCZEXjjgrzQM/atLlFYKy0e6DUY=
+
+Name: pelib/filters/ResizingConsumer.class
+SHA1-Digest: RlcLcXzSB1sDDkSyI92PsnSrJVM=
+
+Name: org/kobjects/xmlrpc/Driver.class
+SHA1-Digest: RgwNchSWFCA0EP08WqW7eMXLTsM=
+
+Name: dulux/DuluxColourWall.class
+SHA1-Digest: Teoa9QGDdZNnC6WBe78W13Ka5H8=
+
+Name: premasked/AUS/interior11.jpg
+SHA1-Digest: m9bgevg367RbB7BtGMqd9lRvMGA=
+
+Name: com/sun/jimi/core/encoder/jpg/Tables.class
+SHA1-Digest: edvWvTiYg3pyg7+lusJpKrFpJH4=
+
+Name: org/xmlpull/v1/XmlPullParser.class
+SHA1-Digest: sw4aQQUmQBs8DnGDJHlGY0g+F8E=
+
+Name: com/sun/jimi/core/encoder/png/PNGEncoder.class
+SHA1-Digest: DIhSOKRqRtorpP+HjVdL2+BlxX0=
+
+Name: ui/colourwall_specialty_designer_over.jpg
+SHA1-Digest: mknj6W+c/tyrg7WpnHksNOfZJPc=
+
+Name: org/ksoap2/serialization/MarshalHashtable.class
+SHA1-Digest: uz9xtOoBW6TWwZRbcwrZB0wD+Lw=
+
+Name: com/sun/jimi/core/decoder/pcx/PCXColorMap.class
+SHA1-Digest: bGblYYFaXbHDbKyYsKRvz3xcK/Y=
+
+Name: dulux/DuluxWebserviceResult.class
+SHA1-Digest: Qydzissi0JfvJ82t6LKL+tOOxJg=
+
+Name: ui/button_88x39_return_up.jpg
+SHA1-Digest: yVLqSGOieAntM3/h0dMfsOrjEjU=
+
+Name: ui/traditionals_up.jpg
+SHA1-Digest: 9kf1xoc7Am2WwHftKNH1CmEngTo=
+
+Name: ui/colourwall_specialty_suede_up.jpg
+SHA1-Digest: WpGm3gEM9Hprmgptqoml6trER/U=
+
+Name: org/kobjects/xml/XmlReader.class
+SHA1-Digest: hSMmiPCpverJA5Jyf/m98VUfAVU=
+
+Name: com/sun/jimi/core/encoder/xbm/XBMEncoder.class
+SHA1-Digest: pWuhHK2tfZn1CXNXAOYHT4zXBUM=
+
+Name: com/sun/jimi/core/raster/MemoryLongRasterImage.class
+SHA1-Digest: 46c56wsmOckXHNJkS2bYsVI+oic=
+
+Name: com/sun/jimi/core/encoder/tga/TGAEncoder.class
+SHA1-Digest: luzzPPwvEZKGA4VO/OICauvlSVI=
+
+Name: custom_eraser.gif
+SHA1-Digest: rGwiXEHGKjVdM6aywY069jp4QyM=
+
+Name: ui/load_up.png
+SHA1-Digest: X1Heo0QjWGax33c8uDB1kT/ikHE=
+
+Name: pelib/MaskNameCommand.class
+SHA1-Digest: hTOcyygF2mCaPnJoovZ+V3m6KBo=
+
+Name: ui/help_colours.png
+SHA1-Digest: YkpREXi7z8EAJuyqlo/oVZUERrI=
+
+Name: org/ksoap2/serialization/SoapSerializationEnvelope.class
+SHA1-Digest: 1v9qCgk/lSiyP+hNue6xJcmOw04=
+
+Name: pelibskin/ListEvent.class
+SHA1-Digest: pERXT86N3EeA119bQHnjPCgOPwU=
+
+Name: pelib/progress_en.properties
+SHA1-Digest: iH6aeF7YmhcbedjNMtb46N86Ses=
+
+Name: dulux/DuluxPaintInputLayer.class
+SHA1-Digest: 6oMt5lBJOt48xk+auKUhROofu1c=
+
+Name: pelib/ui/MessageDialog.class
+SHA1-Digest: Fy+qYOca/syCpCZ7bfgSfYcKs98=
+
+Name: ui/progress.jpg
+SHA1-Digest: Hhs9V1RF34YMSlcNl8Lk1xpNabI=
+
+Name: ui/128x39_undo_deactivated.jpg
+SHA1-Digest: MUjLsKE9GD3MGrUNdf+BpAtb7kc=
+
+Name: premasked/AUS/interior06.jpg
+SHA1-Digest: acsBk30Rx6lXpZgrWfUG2j3ck64=
+
+Name: org/ksoap2/serialization/Marshal.class
+SHA1-Digest: i5sVK5va/G4ou6j88wWnhnde9mI=
+
+Name: com/sun/jimi/core/JimiEncoderFactorySupport.class
+SHA1-Digest: uKgWDZS5u3CZTa+vIIov5TpB32g=
+
+Name: pelib/filters/ResizingFilter.class
+SHA1-Digest: KVjmMW0tKdi8kLVg2Ix83RB+vRE=
+
+Name: pelib/filters/Convolution2PassFilter$1.class
+SHA1-Digest: aAdSyuAC3vVgTyw5HUzpdNIApeI=
+
+Name: ui/128x28_change_down.jpg
+SHA1-Digest: pe6kM3wvt2OTHxWalQJIq4gSLtQ=
+
+Name: pelib/filters/BilinearFilter$1.class
+SHA1-Digest: 1krtlKp/zX8fQ9/tnbnrAdVhdq4=
+
+Name: com/sun/jimi/core/util/SeekInputStream.class
+SHA1-Digest: R1VNHfOasK938E6hBQIXZ37H3do=
+
+Name: dulux/DuluxMyColour$2.class
+SHA1-Digest: GJ7xo2D0xHPvNU+O+9+mh9L1MXo=
+
+Name: com/sun/jimi/core/encoder/pict/PICTWriter.class
+SHA1-Digest: u9UTQjBB+hb2nSNPkS5YyPfRbo0=
+
+Name: ui/reds_down.jpg
+SHA1-Digest: OQyZXq0dlLxRwcbgDvBdwUovLaM=
+
+Name: com/sun/jimi/core/filters/Rotate.class
+SHA1-Digest: cmbJbsvls26cNRWj4ItXspyL4L8=
+
+Name: com/sun/jimi/core/encoder/png/png_chunk_plte.class
+SHA1-Digest: TNF0v9XrfXItSmcsml171Rw1/aw=
+
+Name: pelib/scissors/TrackingScissor.class
+SHA1-Digest: K6LHrb9y3Dvi/ZjWVO7bAs04Vdo=
+
+Name: com/sun/jimi/core/encoder/psd/EncodeImageIfc.class
+SHA1-Digest: AChz6G4PjVTqg8yqIJ8tiMwg27E=
+
+Name: ui/return_inactive.png
+SHA1-Digest: qaP59mf9PNadzYbWhnlBi15481s=
+
+Name: com/sun/jimi/core/util/ErrorImageProducer.class
+SHA1-Digest: qSfhDSAYMwmQ3dSTWy1rdxRXm3c=
+
+Name: com/sun/jimi/core/raster/IntRasterImage.class
+SHA1-Digest: qBbNDfchB5xY9TVhb71M+sN+s8w=
+
+Name: premasked/NZ/interior02.jpg
+SHA1-Digest: 2QBLKSAMDI+sU4qbZr5gX80FlxI=
+
+Name: ui/load_down.png
+SHA1-Digest: 2HQW7bFCi/tjoiyykiJzj73mK/A=
+
+Name: ui/help_undo.png
+SHA1-Digest: baZ27XtxT/oAdu7dNxTkUcOoMMo=
+
+Name: ui/85x22_rename_up.jpg
+SHA1-Digest: 8JoH4ddEfbOjJ/ZR+VxxulId05c=
+
+Name: ui/128x28_specifier_selected.jpg
+SHA1-Digest: EMP1/X3/JNdbSSwXkCNeftyd3C4=
+
+Name: ui/deleteArea_deactivated.png
+SHA1-Digest: prTiykeMU2xtPGnM0DgXkXaawmI=
+
+Name: ui/colourwall_specialty_tuscan_over.jpg
+SHA1-Digest: vMNPK5cneU2DISn9Q5cpcGyNYM4=
+
+Name: com/sun/jimi/core/decoder/pict/PICTColorTable.class
+SHA1-Digest: WeAK8E6Z9Dj0x9JszKICP1/JxKQ=
+
+Name: ui/128x28_deactivated_up.jpg
+SHA1-Digest: lc8eq/pwHhHWlMyolGMuVpUHZxo=
+
+Name: com/sun/jimi/core/encoder/xpm/XPMEncoder.class
+SHA1-Digest: Wv3D2kKxaJAuItXJsPIgEppl7Tk=
+
+Name: duluxskin/Widget.class
+SHA1-Digest: eN3gr4F3L6r1aamh23eqZXDS57s=
+
+Name: ui/standards_selected.jpg
+SHA1-Digest: 3s2Oif0q2n6uL1Nc689olA0pRUU=
+
+Name: dulux/DuluxPaintInput.class
+SHA1-Digest: lk1xIjKfQ2bTJh9ecw7rDNLAbqY=
+
+Name: ui/128x39_redo_up.jpg
+SHA1-Digest: nxZAvw6nJsDMSLelxnwT90nKyLc=
+
+Name: ui/save_selected.png
+SHA1-Digest: hwW+t9f/CSX+28+l09x97qhXy8U=
+
+Name: org/ksoap2/serialization/FwdRef.class
+SHA1-Digest: kXFzJyH4f5F6fFqaj+ieUSRgPJU=
+
+Name: com/sun/jimi/core/filters/CompositeFilter.class
+SHA1-Digest: R6/uwydhr94DMjPnrNwAiIqP/T8=
+
+Name: pelib/filters/TriangulationFilter.class
+SHA1-Digest: 1TrTrwKCoU7iWVfpdRnAjAFqkJI=
+
+Name: pelib/ImageInteger.class
+SHA1-Digest: /OHAO3uEoGrP2baIcM7AJYJkees=
+
+Name: com/sun/jimi/util/ExpandableArray.class
+SHA1-Digest: wyfBs6mWtjBgS+yQSAUuNz8nITg=
+
+Name: pelibskin/SkinnedPopupList.class
+SHA1-Digest: uXlheiDDMaSXIFDdiFUWDVBx/y4=
+
+Name: pelib/ui/ColourPalette$BrightnessPicker.class
+SHA1-Digest: BKAZoeDeRVLexZvf7EakrN4Uw8g=
+
+Name: ui/85x22_rename_selected.jpg
+SHA1-Digest: DRqbDRJDfFxKMt+DH8zmivV+DDU=
+
+Name: ui/add_area_up.png
+SHA1-Digest: 3bEAMeIf/Dj/QK2m2nMzPA0/7Mg=
+
+Name: dulux/DuluxMyColour$1.class
+SHA1-Digest: zLrOCB6JvaDdBuSn478XUlpcIAA=
+
+Name: pelib/PaintExplorerFileFormatException.class
+SHA1-Digest: ph6Amrf8OPj5sD33fNbbI9laMG8=
+
+Name: ui/slideleft_up.jpg
+SHA1-Digest: /zAHnTkQVJm00dQyhPP7rri8/oE=
+
+Name: com/sun/jimi/core/decoder/tga/TGAFileHeader.class
+SHA1-Digest: oDBXK4OKzGkTcA0mrbWgjoZ83ws=
+
+Name: ui/88x39_zoomOut_selected.jpg
+SHA1-Digest: A39KMM4e4vEVAANGi9Git0vkugo=
+
+Name: com/sun/jimi/core/util/StampImage.class
+SHA1-Digest: Fv5qJrq0mLNqdx+7G3iUM1dL4nQ=
+
+Name: com/sun/jimi/core/JimiWriter.class
+SHA1-Digest: jftzUll6t2VFdz4O2fXd3Vjwijc=
+
+Name: com/sun/jimi/core/decoder/psd/PSDDecoderFactory.class
+SHA1-Digest: lGEDLkuqsw4G9UqxTrdiZ2ZkVeY=
+
+Name: ui/128x39_redo_down.jpg
+SHA1-Digest: glziWLrV8pFHYkQgtMDUA5KQlmw=
+
+Name: pelib/BatchCommand.class
+SHA1-Digest: 5k8/vFna2jZSI2C/rVq/t8SglKI=
+
+Name: pelib/PaintInput.class
+SHA1-Digest: BbK1YRq6tFA3cf0L0K9jN+bJflQ=
+
+Name: pelibskin/SkinnedListTextItem.class
+SHA1-Digest: nQre64eR7gYZeSPtpiRUiFevabM=
+
+Name: com/sun/jimi/core/encoder/xpm/XPMEncoderFactory.class
+SHA1-Digest: p7A3oEF4xN87bbv3dOo5h6AkRtE=
+
+Name: ui/128x39_loadProject_deactivated.jpg
+SHA1-Digest: fSudUMJtrGw52f/Ex+nmJ4xZ73k=
+
+Name: com/sun/jimi/core/filters/ReplicatingScaleFilter.class
+SHA1-Digest: Rkg8WpUbdikRd6m1dyJN2isJeMA=
+
+Name: pelib/lighting/HalogenLighting.class
+SHA1-Digest: WYQ0aq8hBdQRPCHk2SXQlboEZeY=
+
+Name: com/sun/jimi/core/InvalidOptionException.class
+SHA1-Digest: g1aysJLF+p3tsWBfDug2qNHOhFw=
+
+Name: com/sun/jimi/core/options/GIFOptions.class
+SHA1-Digest: NiXSImMlJ4EwJIfGWOJePIR2154=
+
+Name: com/sun/jimi/core/decoder/ico/RGBQuad.class
+SHA1-Digest: JPf4lRQ+sG153iiFZnsyqe+L+HQ=
+
+Name: com/sun/jimi/core/JimiSingleImageRasterEncoder.class
+SHA1-Digest: x5tL0HQAZ9gZ1/Lr9fawclwsICU=
+
+Name: ui/slideleft_down.jpg
+SHA1-Digest: +P6QFEYRfjonKljDVNQWuUH/NLE=
+
+Name: ui/editArea_up.png
+SHA1-Digest: es+EZThhMR2XWSw/P3vSHNknCFU=
+
+Name: com/sun/jimi/core/util/MulticastImageConsumer.class
+SHA1-Digest: gyL/b0vQm4sF0XysfhGTIi6p0Jc=
+
+Name: pelibskin/SkinnedRegion.class
+SHA1-Digest: cx5dbWe9T5PcGwfPLURmI0DuW+g=
+
+Name: ui/128x39_return_up.jpg
+SHA1-Digest: kdr2Uz73pDN5JBUjtHtpWcATKHA=
+
+Name: com/sun/jimi/core/util/lzw/LZWDecompressionStringTable.class
+SHA1-Digest: SV8e5eK3Kty+b5/0ai9y99iOnq8=
+
+Name: com/sun/jimi/core/decoder/pcx/PCXDecoderFactory.class
+SHA1-Digest: vG2ly3Yob1/O14MWFcnL4IanKMk=
+
+Name: com/sun/jimi/core/filters/Invert.class
+SHA1-Digest: OHaMFmhArmTsOj2/KFXVL26R20o=
+
+Name: pelib/Edge.class
+SHA1-Digest: q4b3uuZnAg/mkUeLDKCsHZ0ecaw=
+
+Name: pelib/RemoveMaskCommand.class
+SHA1-Digest: 6HFGtg6lhN/E3iHlMw15PuRB/2M=
+
+Name: dulux/DuluxMyColour$10.class
+SHA1-Digest: 1jxLLWd1XiJhsjusa1NNZUGtSg8=
+
+Name: com/sun/jimi/core/decoder/gif/GIFColorTable.class
+SHA1-Digest: kCvId8ikABI1+po7Ui0w5o1JfT8=
+
+Name: org/ksoap2/transport/HttpTransportBasicAuth.class
+SHA1-Digest: ZsFxsEkdWcPYzo+lRHmn8naiUJ4=
+
+Name: dulux/DuluxMyColour$11.class
+SHA1-Digest: nmIoR5WdVZj5axCMEYcHZ1sc+CE=
+
+Name: com/sun/jimi/core/decoder/bmp/BMPDecoder.class
+SHA1-Digest: AGqrbiyHGz02J3HOIQJ60M2iank=
+
+Name: com/sun/jimi/core/component/AbstractRenderer.class
+SHA1-Digest: rUw+OQpW7JgR0b3dksNTb7Y3Bkg=
+
+Name: pelib/filters/BilinearFilter.class
+SHA1-Digest: P0/6q5QasY+FN+3bHcZo+SZqKRA=
+
+Name: com/sun/jimi/core/decoder/psd/PSDColorMode.class
+SHA1-Digest: CS2O0QefPW35QM5VFiBxxxOr39I=
+
+Name: com/sun/jimi/core/util/JimiImageSerializer.class
+SHA1-Digest: WLMtO7VtS1gv3zBG1CeydGFXTGE=
+
+Name: pelib/PaintExplorer.class
+SHA1-Digest: fnZmSjgPfGyqxUX4/5y51G+A2lE=
+
+Name: com/sun/jimi/core/decoder/sunraster/SunRasterDecoder.class
+SHA1-Digest: YV6tomI8pAQc6phLL/+e8qqX7N0=
+
+Name: ui/help_save.png
+SHA1-Digest: KW09tTEaHdv3HDkxo7L3wXLsDMg=
+
+Name: com/sun/jimi/core/raster/MemoryChanneledIntRasterImage.class
+SHA1-Digest: sGuCk3f440QALDEsO2JOGEJdfCU=
+
+Name: com/sun/jimi/core/component/ScaleRenderer.class
+SHA1-Digest: F72gbxkehQaEWwoYJlv8cs1eshM=
+
+Name: ui/128x39_loadProject_selected.jpg
+SHA1-Digest: Vt3LnLY8eKvdFeZj7Ow64R9yyW4=
+
+Name: ui/colourwall_specialty_metallic_over.jpg
+SHA1-Digest: yN8BlfxyNQoKG+S4xvmDuaPiPJw=
+
+Name: ui/88x43_newLayer_down.png
+SHA1-Digest: FNQ0MbtxX7I1OQOlrb0cAF6A53g=
+
+Name: com/sun/jimi/core/JimiExtension.class
+SHA1-Digest: /iW/4D6TWf/JT0sqWwvNGISjqL0=
+
+Name: ui/lighting_dropdown.jpg
+SHA1-Digest: NT2SAtqSxXmIV737NisHSsbohV0=
+
+Name: ui/colourwall_specialty_render_up.jpg
+SHA1-Digest: tA/BYWp9Zu8xYChATWYE3VQhQw0=
+
+Name: com/sun/jimi/core/decoder/ico/IconDirEntry.class
+SHA1-Digest: LZK9UII2mXam8HDPu+Q6ZsXg60o=
+
+Name: pelib/ui/ColourPalette$HueSaturationPicker.class
+SHA1-Digest: scDjeOyZfptCzRbipnpIcYtBPp0=
+
+Name: pelibskin/ExceptionListener.class
+SHA1-Digest: 4kVmkpi2uSfjX18X2EB/7W/gMVo=
+
+Name: ui/help_lighting.png
+SHA1-Digest: Ha6h7OdmtosKbj+FC+EYFGvTi50=
+
+Name: com/sun/jimi/core/decoder/tiff/LZWDecomp.class
+SHA1-Digest: GjP47q7wHjEpyDZKT3kX5YPYTnM=
+
+Name: Info.plist
+SHA1-Digest: UYJCAUzMYckegCvoIJntSUtWZHs=
+
+Name: com/sun/jimi/core/decoder/pict/PICTDecoderFactory.class
+SHA1-Digest: KZ0xc4c0oC1etll2m1yCSyIr6hE=
+
+Name: pelib/filters/ConvolutionKernel1D.class
+SHA1-Digest: P2zaCF7LZxM9Of1RUiVzwYvTfy8=
+
+Name: com/sun/jimi/core/DoNothingOptionsObject.class
+SHA1-Digest: A8DKPQfMCemkwL2Z9XoGaz4mcMc=
+
+Name: com/sun/jimi/core/decoder/xbm/XBMDecoderFactory.class
+SHA1-Digest: 29Iu2WbasrFKVcWwQNZtSCO9EcM=
+
+Name: pelib/print/SVGPrintable.class
+SHA1-Digest: 6YD7oOW/Ea/x5o/8llQrABVZSTw=
+
+Name: org/xmlpull/v1/XmlPullParserException.class
+SHA1-Digest: lKQBZGdTPSPT4kmxML87v50P1s4=
+
+Name: ui/88x39_saveImage_selected.jpg
+SHA1-Digest: v0RQ0REJQu/JJIYRszzo+H/tv9o=
+
+Name: com/sun/jimi/core/component/ImageCache.class
+SHA1-Digest: gmwQ+a/IiFpKYfci0Vi7hUJRE4c=
+

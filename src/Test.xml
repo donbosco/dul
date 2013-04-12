@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ColourWall>
+    <HueGroup Name="Reds" Value="1">
+        <Row RowNumber="1">
+			<Colour R="255" G="245" B="242" Name="Antarctic Blue" Column="1" Value="1234"></Colour>
+			<Colour R="255" G="200" B="242" Name="www blue" Column="2" Value="1235"></Colour>
+		</Row>
+        <Row RowNumber="2">
+        	<Colour R="200" G="220" B="0" Name="Test" Column="1" Value="1236"></Colour>
+        	<Colour R="100" G="100" B="100" Name="Test - 2" Column="2" Value="1234"></Colour>
+        </Row>
+    </HueGroup>
+</ColourWall>

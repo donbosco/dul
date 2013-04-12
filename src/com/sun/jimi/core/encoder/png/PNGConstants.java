@@ -1,0 +1,168 @@
+/*     */ package com.sun.jimi.core.encoder.png;
+/*     */ 
+/*     */ public abstract interface PNGConstants
+/*     */ {
+/*     */   public static final String PNG_LIBPNG_VER_STRING = "0.96";
+/*     */   public static final int PNG_LIBPNG_VER = 96;
+/*  29 */   public static final byte[] png_sig = { -119, 80, 78, 71, 13, 10, 26, 10 };
+/*     */ 
+/*  33 */   public static final int[] png_pass_start = { 0, 4, 0, 2, 0, 1 };
+/*     */ 
+/*  35 */   public static final int[] png_pass_inc = { 8, 8, 4, 4, 2, 2, 1 };
+/*     */ 
+/*  37 */   public static final int[] png_pass_ystart = { 0, 0, 4, 0, 2, 0, 1 };
+/*     */ 
+/*  39 */   public static final int[] png_pass_yinc = { 8, 8, 8, 4, 4, 2, 2 };
+/*     */ 
+/*  41 */   public static final int[] png_pass_mask = { 128, 8, 136, 34, 170, 85, 255 };
+/*     */ 
+/*  43 */   public static final int[] png_pass_dsp_mask = { 255, 15, 255, 51, 255, 85, 255 };
+/*     */   public static final byte PNG_TEXT_COMPRESSION_NONE_WR = -3;
+/*     */   public static final byte PNG_TEXT_COMPRESSION_zTXt_WR = -2;
+/*     */   public static final byte PNG_TEXT_COMPRESSION_NONE = -1;
+/*     */   public static final byte PNG_TEXT_COMPRESSION_zTXt = 0;
+/*     */   public static final byte PNG_TEXT_COMPRESSION_LAST = 1;
+/*     */   public static final byte PNG_COLOR_MASK_PALETTE = 1;
+/*     */   public static final byte PNG_COLOR_MASK_COLOR = 2;
+/*     */   public static final byte PNG_COLOR_MASK_ALPHA = 4;
+/*     */   public static final byte PNG_COLOR_TYPE_GRAY = 0;
+/*     */   public static final byte PNG_COLOR_TYPE_PALETTE = 3;
+/*     */   public static final byte PNG_COLOR_TYPE_RGB = 2;
+/*     */   public static final byte PNG_COLOR_TYPE_RGB_ALPHA = 6;
+/*     */   public static final byte PNG_COLOR_TYPE_GRAY_ALPHA = 4;
+/*     */   public static final byte PNG_COMPRESSION_TYPE_BASE = 0;
+/*     */   public static final byte PNG_COMPRESSION_TYPE_DEFAULT = 0;
+/*     */   public static final byte PNG_FILTER_TYPE_BASE = 0;
+/*     */   public static final byte PNG_FILTER_TYPE_DEFAULT = 0;
+/*     */   public static final byte PNG_INTERLACE_NONE = 0;
+/*     */   public static final byte PNG_INTERLACE_ADAM7 = 1;
+/*     */   public static final byte PNG_INTERLACE_LAST = 2;
+/*     */   public static final byte PNG_OFFSET_PIXEL = 0;
+/*     */   public static final byte PNG_OFFSET_MICROMETER = 1;
+/*     */   public static final byte PNG_OFFSET_LAST = 2;
+/*     */   public static final byte PNG_EQUATION_LINEAR = 0;
+/*     */   public static final byte PNG_EQUATION_BASE_E = 1;
+/*     */   public static final byte PNG_EQUATION_ARBITRARY = 2;
+/*     */   public static final byte PNG_EQUATION_HYPERBOLIC = 3;
+/*     */   public static final byte PNG_EQUATION_LAST = 4;
+/*     */   public static final byte PNG_RESOLUTION_UNKNOWN = 0;
+/*     */   public static final byte PNG_RESOLUTION_METER = 1;
+/*     */   public static final byte PNG_RESOLUTION_LAST = 2;
+/*     */   public static final int PNG_INFO_gAMA = 1;
+/*     */   public static final int PNG_INFO_sBIT = 2;
+/*     */   public static final int PNG_INFO_cHRM = 4;
+/*     */   public static final int PNG_INFO_PLTE = 8;
+/*     */   public static final int PNG_INFO_tRNS = 16;
+/*     */   public static final int PNG_INFO_bKGD = 32;
+/*     */   public static final int PNG_INFO_hIST = 64;
+/*     */   public static final int PNG_INFO_pHYs = 128;
+/*     */   public static final int PNG_INFO_oFFs = 256;
+/*     */   public static final int PNG_INFO_tIME = 512;
+/*     */   public static final int PNG_INFO_pCAL = 1024;
+/*     */   public static final int PNG_CRC_DEFAULT = 0;
+/*     */   public static final int PNG_CRC_ERROR_QUIT = 1;
+/*     */   public static final int PNG_CRC_WARN_DISCARD = 2;
+/*     */   public static final int PNG_CRC_WARN_USE = 3;
+/*     */   public static final int PNG_CRC_QUIET_USE = 4;
+/*     */   public static final int PNG_CRC_NO_CHANGE = 5;
+/*     */   public static final int PNG_NO_FILTERS = 0;
+/*     */   public static final int PNG_FILTER_NONE = 8;
+/*     */   public static final int PNG_FILTER_SUB = 16;
+/*     */   public static final int PNG_FILTER_UP = 32;
+/*     */   public static final int PNG_FILTER_AVG = 64;
+/*     */   public static final int PNG_FILTER_PAETH = 128;
+/*     */   public static final int PNG_ALL_FILTERS = 248;
+/*     */   public static final byte PNG_FILTER_VALUE_NONE = 0;
+/*     */   public static final byte PNG_FILTER_VALUE_SUB = 1;
+/*     */   public static final byte PNG_FILTER_VALUE_UP = 2;
+/*     */   public static final byte PNG_FILTER_VALUE_AVG = 3;
+/*     */   public static final byte PNG_FILTER_VALUE_PAETH = 4;
+/*     */   public static final byte PNG_FILTER_VALUE_LAST = 5;
+/*     */   public static final int PNG_FILTER_HEURISTIC_DEFAULT = 0;
+/*     */   public static final int PNG_FILTER_HEURISTIC_UNWEIGHTED = 1;
+/*     */   public static final int PNG_FILTER_HEURISTIC_WEIGHTED = 2;
+/*     */   public static final int PNG_FILTER_HEURISTIC_LAST = 3;
+/*     */   public static final int PNG_BEFORE_IHDR = 0;
+/*     */   public static final int PNG_HAVE_IHDR = 1;
+/*     */   public static final int PNG_HAVE_PLTE = 2;
+/*     */   public static final int PNG_HAVE_IDAT = 4;
+/*     */   public static final int PNG_AFTER_IDAT = 8;
+/*     */   public static final int PNG_HAVE_IEND = 16;
+/*     */   public static final int PNG_READ_SIG_MODE = 0;
+/*     */   public static final int PNG_READ_CHUNK_MODE = 1;
+/*     */   public static final int PNG_READ_IDAT_MODE = 2;
+/*     */   public static final int PNG_SKIP_MODE = 3;
+/*     */   public static final int PNG_READ_tEXt_MODE = 4;
+/*     */   public static final int PNG_READ_zTXt_MODE = 5;
+/*     */   public static final int PNG_READ_DONE_MODE = 6;
+/*     */   public static final int PNG_ERROR_MODE = 7;
+/*     */   public static final int PNG_BGR = 1;
+/*     */   public static final int PNG_INTERLACE = 2;
+/*     */   public static final int PNG_PACK = 4;
+/*     */   public static final int PNG_SHIFT = 8;
+/*     */   public static final int PNG_SWAP_BYTES = 16;
+/*     */   public static final int PNG_INVERT_MONO = 32;
+/*     */   public static final int PNG_DITHER = 64;
+/*     */   public static final int PNG_BACKGROUND = 128;
+/*     */   public static final int PNG_BACKGROUND_EXPAND = 256;
+/*     */   public static final int PNG_RGB_TO_GRAY = 512;
+/*     */   public static final int PNG_16_TO_8 = 1024;
+/*     */   public static final int PNG_RGBA = 2048;
+/*     */   public static final int PNG_EXPAND = 4096;
+/*     */   public static final int PNG_GAMMA = 8192;
+/*     */   public static final int PNG_GRAY_TO_RGB = 16384;
+/*     */   public static final int PNG_FILLER = 32768;
+/*     */   public static final int PNG_PACKSWAP = 65536;
+/*     */   public static final int PNG_SWAP_ALPHA = 131072;
+/*     */   public static final int PNG_STRIP_ALPHA = 262144;
+/*     */   public static final int PNG_STRUCT_PNG = 1;
+/*     */   public static final int PNG_STRUCT_INFO = 2;
+/*     */   public static final int PNG_WEIGHT_SHIFT = 8;
+/*     */   public static final int PNG_WEIGHT_FACTOR = 256;
+/*     */   public static final int PNG_COST_SHIFT = 3;
+/*     */   public static final int PNG_COST_FACTOR = 8;
+/*     */   public static final int PNG_FLAG_ZLIB_CUSTOM_STRATEGY = 1;
+/*     */   public static final int PNG_FLAG_ZLIB_CUSTOM_LEVEL = 2;
+/*     */   public static final int PNG_FLAG_ZLIB_CUSTOM_MEM_LEVEL = 4;
+/*     */   public static final int PNG_FLAG_ZLIB_CUSTOM_WINDOW_BITS = 8;
+/*     */   public static final int PNG_FLAG_ZLIB_CUSTOM_METHOD = 16;
+/*     */   public static final int PNG_FLAG_ZLIB_FINISHED = 32;
+/*     */   public static final int PNG_FLAG_ROW_INIT = 64;
+/*     */   public static final int PNG_FLAG_FILLER_AFTER = 128;
+/*     */   public static final int PNG_FLAG_CRC_ANCILLARY_USE = 256;
+/*     */   public static final int PNG_FLAG_CRC_ANCILLARY_NOWARN = 512;
+/*     */   public static final int PNG_FLAG_CRC_CRITICAL_USE = 1024;
+/*     */   public static final int PNG_FLAG_CRC_CRITICAL_IGNORE = 2048;
+/*     */   public static final int PNG_FLAG_FREE_PALETTE = 4096;
+/*     */   public static final int PNG_FLAG_FREE_TRANS = 8192;
+/*     */   public static final int PNG_FLAG_FREE_HIST = 16384;
+/*     */   public static final int PNG_FLAG_HAVE_CHUNK_HEADER = 32768;
+/*     */   public static final int PNG_FLAG_WROTE_tIME = 65536;
+/*     */   public static final int PNG_FLAG_CRC_ANCILLARY_MASK = 768;
+/*     */   public static final int PNG_FLAG_CRC_CRITICAL_MASK = 3072;
+/*     */   public static final int PNG_FLAG_CRC_MASK = 3840;
+/* 268 */   public static final byte[] png_IHDR = { 73, 72, 68, 82 };
+/*     */   public static final int png_IHDR_len = 13;
+/* 270 */   public static final byte[] png_IDAT = { 73, 68, 65, 84 };
+/* 271 */   public static final byte[] png_IEND = { 73, 69, 78, 68 };
+/* 272 */   public static final byte[] png_PLTE = { 80, 76, 84, 69 };
+/* 273 */   public static final byte[] png_bKGD = { 98, 75, 71, 68 };
+/* 274 */   public static final byte[] png_cHRM = { 99, 72, 82, 77 };
+/* 275 */   public static final byte[] png_gAMA = { 103, 65, 77, 65 };
+/* 276 */   public static final byte[] png_hIST = { 104, 73, 83, 84 };
+/* 277 */   public static final byte[] png_oFFs = { 111, 70, 70, 115 };
+/* 278 */   public static final byte[] png_pCAL = { 112, 67, 65, 76 };
+/* 279 */   public static final byte[] png_pHYs = { 112, 72, 89, 115 };
+/* 280 */   public static final byte[] png_sBIT = { 115, 66, 73, 84 };
+/* 281 */   public static final byte[] png_tEXt = { 116, 69, 88, 116 };
+/* 282 */   public static final byte[] png_tIME = { 116, 73, 77, 69 };
+/* 283 */   public static final byte[] png_tRNS = { 116, 82, 78, 83 };
+/* 284 */   public static final byte[] png_zTXt = { 122, 84, 88, 116 };
+/*     */   public static final int PNG_ZBUF_SIZE = 8192;
+/*     */   public static final int MAX_PALETTE = 256;
+/*     */ }
+
+/* Location:           dulux-signed.jar
+ * Qualified Name:     com.sun.jimi.core.encoder.png.PNGConstants
+ * JD-Core Version:    0.6.2
+ */

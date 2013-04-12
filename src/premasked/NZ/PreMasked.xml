@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PreMasked.xml
+    Created on : 21 August 2009, 01:10
+    Author     : jlee
+    Description:
+        Stores the location and link of the pre-masked image
+-->
+
+<root>
+    <premasked interior="8" exterior="7">
+        <interior>
+            <dmc id="interior01" thumbnail="/premasked/NZ/interior01.jpg" location="/interior/interior01.dmc"/>
+            <dmc id="interior02" thumbnail="/premasked/NZ/interior02.jpg" location="/interior/interior02.dmc"/>
+            <dmc id="interior03" thumbnail="/premasked/NZ/interior03.jpg" location="/interior/interior03.dmc"/>
+            <dmc id="interior04" thumbnail="/premasked/NZ/interior04.jpg" location="/interior/interior04.dmc"/>
+            <dmc id="interior05" thumbnail="/premasked/NZ/interior05.jpg" location="/interior/interior05.dmc"/>
+            <dmc id="interior06" thumbnail="/premasked/NZ/interior06.jpg" location="/interior/interior06.dmc"/>
+            <dmc id="interior07" thumbnail="/premasked/NZ/interior07.jpg" location="/interior/interior07.dmc"/>
+            <dmc id="interior08" thumbnail="/premasked/NZ/interior08.jpg" location="/interior/interior08.dmc"/>
+        </interior>
+        <exterior>
+            <dmc id="exterior01" thumbnail="/premasked/NZ/exterior01.jpg" location="/exterior/exterior01.dmc"/>
+            <dmc id="exterior02" thumbnail="/premasked/NZ/exterior02.jpg" location="/exterior/exterior02.dmc"/>
+            <dmc id="exterior03" thumbnail="/premasked/NZ/exterior03.jpg" location="/exterior/exterior03.dmc"/>
+			<dmc id="exterior04" thumbnail="/premasked/NZ/exterior04.jpg" location="/exterior/exterior04.dmc"/>
+			<dmc id="exterior05" thumbnail="/premasked/NZ/exterior05.jpg" location="/exterior/exterior05.dmc"/>
+			<dmc id="exterior06" thumbnail="/premasked/NZ/exterior06.jpg" location="/exterior/exterior06.dmc"/>
+			<dmc id="exterior07" thumbnail="/premasked/NZ/exterior07.jpg" location="/exterior/exterior07.dmc"/>
+        </exterior>
+    </premasked>
+
+</root>

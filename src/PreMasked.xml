@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : PreMasked.xml
+    Created on : 21 August 2009, 12:10
+    Author     : jlee
+    Description:
+        Stores the location and link of the pre-masked image
+-->
+
+<root>
+    <premasked interior="5" exterior="5">
+        <interior>
+            <dmc id="interior1" thumbnail="/premasked/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="interior2" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="interior3" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="interior4" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="interior5" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+        </interior>
+        <exterior>
+            <dmc id="exterior1" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="exterior2" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="exterior3" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="exterior4" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+            <dmc id="exterior5" thumbnail="/interior1.jpg" location="http://dulux.staging.es-i.com.au/data/MyColourConfig/415_21_08_2009_17_25_28_MyColourConfig.dmc"/>
+        </exterior>
+    </premasked>
+
+</root>
