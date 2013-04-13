@@ -68,21 +68,21 @@ public class SoapEnvelope
     throws IOException, XmlPullParserException
   {
     //paramXmlPullParser.nextTag();
-    paramXmlPullParser.require(2, this.env, "Envelope");
+    //paramXmlPullParser.require(2, this.env, "Envelope");
     this.encodingStyle = paramXmlPullParser.getAttributeValue(this.env, "encodingStyle");
-    paramXmlPullParser.nextTag();
+    //paramXmlPullParser.nextTag();
     if ((paramXmlPullParser.getEventType() == 2) && (paramXmlPullParser.getNamespace().equals(this.env)) && (paramXmlPullParser.getName().equals("Header")))
     {
       parseHeader(paramXmlPullParser);
-      paramXmlPullParser.require(3, this.env, "Header");
-      paramXmlPullParser.nextTag();
+      //paramXmlPullParser.require(3, this.env, "Header");
+      //paramXmlPullParser.nextTag();
     }
-    paramXmlPullParser.require(2, this.env, "Body");
+    //paramXmlPullParser.require(2, this.env, "Body");
     this.encodingStyle = paramXmlPullParser.getAttributeValue(this.env, "encodingStyle");
     parseBody(paramXmlPullParser);
-    paramXmlPullParser.require(3, this.env, "Body");
-    paramXmlPullParser.nextTag();
-    paramXmlPullParser.require(3, this.env, "Envelope");
+    //paramXmlPullParser.require(3, this.env, "Body");
+    //paramXmlPullParser.nextTag();
+    //paramXmlPullParser.require(3, this.env, "Envelope");
   }
 
   public void parseHeader(XmlPullParser paramXmlPullParser)

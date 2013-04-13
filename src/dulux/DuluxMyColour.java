@@ -329,7 +329,7 @@
 /*      */ 
 /*  363 */     initPaintExplorer();
 /*  364 */     this.saveAndLoad = new DuluxSaveAndLoad(this.WEB_SERVICE_DOMAIN, this.explorer, logger);
-/*  365 */     loadPalettes();
+/*  365 */     //loadPalettes();
 /*  366 */     this.paletteManager.loadSpecialties();
 /*  367 */     this.paletteManager.loadRenderColourWall();
 /*      */ 
@@ -1184,9 +1184,9 @@
 /* 1279 */     this.colour2Button.setColour(this.myColours[1]);
 /* 1280 */     this.colour3Button.setColour(this.myColours[2]);
 /*      */ 
-/* 1282 */     this.myColours[0].palette = null;
-/* 1283 */     this.myColours[1].palette = null;
-/* 1284 */     this.myColours[2].palette = null;
+/* 1282 */     //this.myColours[0].palette = null;
+/* 1283 */     //this.myColours[1].palette = null;
+/* 1284 */     //this.myColours[2].palette = null;
 /*      */   }
 /*      */ 
 /*      */   private void createWidgetGroups()

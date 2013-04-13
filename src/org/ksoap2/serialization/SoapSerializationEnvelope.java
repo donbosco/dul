@@ -44,7 +44,7 @@ public class SoapSerializationEnvelope extends SoapEnvelope
     throws IOException, XmlPullParserException
   {
     this.bodyIn = null;
-    paramXmlPullParser.nextTag();
+    //paramXmlPullParser.nextTag();
     Object localObject1;
     if ((paramXmlPullParser.getEventType() == 2) && (paramXmlPullParser.getNamespace().equals(this.env)) && (paramXmlPullParser.getName().equals("Fault")))
     {
@@ -60,7 +60,7 @@ public class SoapSerializationEnvelope extends SoapEnvelope
         Object localObject2 = read(paramXmlPullParser, null, -1, paramXmlPullParser.getNamespace(), paramXmlPullParser.getName(), PropertyInfo.OBJECT_TYPE);
         if (("1".equals(localObject1)) || (this.bodyIn == null))
           this.bodyIn = localObject2;
-        paramXmlPullParser.nextTag();
+        //paramXmlPullParser.nextTag();
       }
     }
   }
